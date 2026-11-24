@@ -1,0 +1,984 @@
+{
+  "rules": [
+    {
+      "id": "PHON-01",
+      "name": "Five Vowel System",
+      "category": "phonology",
+      "description": "Dimasa maintains a core five-vowel system consisting of /i, e, a, o, u/ without phonemic vowel length contrast in native roots.",
+      "formula": "V -> { /i/, /e/, /a/, /o/, /u/ }",
+      "examples": [
+        {
+          "dimasa": "di",
+          "gloss": "water",
+          "translation": "water"
+        },
+        {
+          "dimasa": "noh",
+          "gloss": "house",
+          "translation": "house"
+        },
+        {
+          "dimasa": "ha",
+          "gloss": "earth",
+          "translation": "earth/ground"
+        }
+      ],
+      "explanation": "Native Dimasa roots exhibit five tense vowel phonemes. Lax vowel variants emerge phonetically in unstressed or epenthetic positions.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "PHON-02",
+      "name": "17 Consonant Phoneme Inventory",
+      "category": "phonology",
+      "description": "Dimasa has 17 native consonant phonemes with a two-way stop voicing contrast: /p, b, t, d, k, g, ʔ, m, n, ŋ, ɾ, s, z, h, w, l, j/.",
+      "formula": "C -> { p, b, t, d, k, g, ʔ, m, n, ŋ, ɾ, s, z, h, w, l, j }",
+      "examples": [
+        {
+          "dimasa": "phai",
+          "gloss": "come",
+          "translation": "to come"
+        },
+        {
+          "dimasa": "bongphang",
+          "gloss": "tree",
+          "translation": "tree"
+        }
+      ],
+      "explanation": "Voiced aspirates and retroflex stops only appear in unassimilated Indo-Aryan loanwords and are not part of native Dimasa phonology.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "PHON-03",
+      "name": "Sesquisyllabic Word Structure",
+      "category": "phonetics",
+      "description": "Initial consonant clusters phonetically surface with a weak epenthetic schwa-like transitional vowel, creating a 1.5 syllable structure.",
+      "formula": "CCV -> C(ə)CV",
+      "examples": [
+        {
+          "dimasa": "gdain",
+          "gloss": "new",
+          "translation": "[ɡədain] new"
+        },
+        {
+          "dimasa": "gsom",
+          "gloss": "black",
+          "translation": "[ɡəsom] black"
+        },
+        {
+          "dimasa": "gphu",
+          "gloss": "white",
+          "translation": "[ɡəpʰu] white"
+        }
+      ],
+      "explanation": "Underlying clusters with prefix g- or initial stops are realized with a minor unstressed pre-syllable, typical of conservative Bodo-Garo phonetics.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "PHON-04",
+      "name": "Glottal Stop and Velar Nasal Distribution",
+      "category": "phonology",
+      "description": "The glottal stop /ʔ/ and velar nasal /ŋ/ are phonotactically prohibited in word-initial position in native Dimasa vocabulary.",
+      "formula": "*#ʔ-, *#ŋ-",
+      "examples": [
+        {
+          "dimasa": "ang",
+          "gloss": "1SG",
+          "translation": "I (ends in /ŋ/)"
+        },
+        {
+          "dimasa": "thang",
+          "gloss": "go",
+          "translation": "to go (ends in /ŋ/)"
+        }
+      ],
+      "explanation": "Velar nasal /ŋ/ occurs exclusively in syllable-coda and medial intervocalic positions.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "ORTH-01",
+      "name": "Roman Orthography Standardization",
+      "category": "orthography",
+      "description": "Standard Dimasa orthography approved by the Dimasa Sahitya Sabha employs the Latin alphabet with digraphs 'kh', 'ph', 'th', 'sh', and 'ng'.",
+      "formula": "Graphemes: a, b, d, e, g, h, i, j, k, l, m, n, o, p, r, s, t, u, w, y; digraphs: kh, ph, th, ng",
+      "examples": [
+        {
+          "dimasa": "grao dima",
+          "gloss": "language Dimasa",
+          "translation": "Dimasa language"
+        },
+        {
+          "dimasa": "dima hasao",
+          "gloss": "river-big hill",
+          "translation": "Dima Hasao"
+        }
+      ],
+      "explanation": "Standard orthographic conventions adopted by the Dimasa Sahitya Sabha for academic and public documentation.",
+      "source_id": "SRC-DSS-2018",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "ORTH-02",
+      "name": "Bengali-Assamese Script Representation",
+      "category": "orthography",
+      "description": "In regional literature and historical texts, Dimasa has been written using the Eastern Nagari (Bengali/Assamese) script.",
+      "formula": "Roman <-> Eastern Nagari: di <-> দি, noh <-> নহ, grao <-> গ্রাও",
+      "examples": [
+        {
+          "dimasa": "দি",
+          "gloss": "water",
+          "translation": "di (water)"
+        },
+        {
+          "dimasa": "গ্রাও দিমা",
+          "gloss": "Dimasa language",
+          "translation": "grao dima"
+        }
+      ],
+      "explanation": "Bengali/Assamese characters represent Dimasa phonemes historically in Cachar and earlier Assam publications.",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NOUN-01",
+      "name": "Nominal Compounding (Root + Root)",
+      "category": "noun formation",
+      "description": "Nouns are formed by concatenating monosyllabic lexical roots, with head-initial or modifier-head compounding.",
+      "formula": "N -> Root1 + Root2",
+      "examples": [
+        {
+          "dimasa": "di + ma",
+          "gloss": "water + big",
+          "translation": "dima (big river)"
+        },
+        {
+          "dimasa": "di + sa",
+          "gloss": "water + child",
+          "translation": "disa (small brook)"
+        },
+        {
+          "dimasa": "dima + sa",
+          "gloss": "big river + child",
+          "translation": "dimasa (Dimasa people)"
+        }
+      ],
+      "explanation": "Extremely productive morphological mechanism in Bodo-Garo languages.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NOUN-02",
+      "name": "Human Plural Suffix -rao",
+      "category": "noun formation",
+      "description": "Human and animate nouns mark plural number using the collective plural suffix -rao.",
+      "formula": "Noun[+human] + -rao -> Noun[plural]",
+      "examples": [
+        {
+          "dimasa": "subun-rao",
+          "gloss": "person-PL",
+          "translation": "people / persons"
+        },
+        {
+          "dimasa": "hinjaosa-rao",
+          "gloss": "woman-PL",
+          "translation": "women"
+        },
+        {
+          "dimasa": "bosi-rao",
+          "gloss": "3PL-PL",
+          "translation": "they / those people"
+        }
+      ],
+      "explanation": "Inanimate nouns usually do not take -rao and instead rely on context, numeral classifiers, or quantifiers like gbang-ba (many).",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "PRON-01",
+      "name": "Personal Pronoun System",
+      "category": "pronouns",
+      "description": "Personal pronouns distinguish 1st, 2nd, and 3rd person in singular and plural, exhibiting first-person suppletive plural stems.",
+      "formula": "1SG: ang, 1PL: ching; 2SG: ning, 2PL: nisi; 3SG: bo, 3PL: bosi",
+      "examples": [
+        {
+          "dimasa": "ang",
+          "gloss": "1SG",
+          "translation": "I"
+        },
+        {
+          "dimasa": "ching",
+          "gloss": "1PL",
+          "translation": "we"
+        },
+        {
+          "dimasa": "ning",
+          "gloss": "2SG",
+          "translation": "you (singular)"
+        },
+        {
+          "dimasa": "nisi",
+          "gloss": "2PL",
+          "translation": "you (plural)"
+        },
+        {
+          "dimasa": "bo",
+          "gloss": "3SG",
+          "translation": "he / she / it"
+        },
+        {
+          "dimasa": "bosi",
+          "gloss": "3PL",
+          "translation": "they"
+        }
+      ],
+      "explanation": "First person plural shows suppletive stem change from ang to ching, a foundational Bodo-Garo typological trait.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "PRON-02",
+      "name": "Velar Nasal Deletion Before Coronal Case Suffixes",
+      "category": "morphology",
+      "description": "First and second person pronoun stems ending in -ng delete the final velar nasal when attaching the genitive suffix -ni or dative -ne.",
+      "formula": "ang + -ni -> ani; ning + -ni -> nini; ching + -ni -> chini",
+      "examples": [
+        {
+          "dimasa": "ani",
+          "gloss": "1SG.GEN",
+          "translation": "my / mine (from ang + ni)"
+        },
+        {
+          "dimasa": "nini",
+          "gloss": "2SG.GEN",
+          "translation": "your / yours (from ning + ni)"
+        },
+        {
+          "dimasa": "chini",
+          "gloss": "1PL.GEN",
+          "translation": "our / ours (from ching + ni)"
+        }
+      ],
+      "explanation": "Morphophonemic rule: -ng -> ∅ / __ + n. The final velar nasal drops completely before alveolar nasal initial suffixes.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-01",
+      "name": "Nominative / Absolutive Zero Marking",
+      "category": "case marking",
+      "description": "The nominative case for clausal subjects of transitive and intransitive verbs is unmarked (zero morpheme).",
+      "formula": "Noun + -∅ -> Subject",
+      "examples": [
+        {
+          "dimasa": "ang thang-du",
+          "gloss": "1SG go-IPFV",
+          "translation": "I am going"
+        },
+        {
+          "dimasa": "subun phai-ba",
+          "gloss": "person come-PST",
+          "translation": "The person came"
+        }
+      ],
+      "explanation": "Subject arguments in neutral citation and clause positions carry no overt suffix.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-02",
+      "name": "Accusative Differential Object Marking -ke / -khe",
+      "category": "case marking",
+      "description": "Definite and specific direct objects are marked by the accusative clitic -ke or -khe.",
+      "formula": "NP[+definite] + =ke / =khe",
+      "examples": [
+        {
+          "dimasa": "ang bo-khe nu-ba",
+          "gloss": "1SG 3SG-ACC see-PST",
+          "translation": "I saw him"
+        },
+        {
+          "dimasa": "ning gdain-ke la",
+          "gloss": "2SG new-ACC take",
+          "translation": "You take the new one"
+        }
+      ],
+      "explanation": "Indefinite or non-specific objects typically lack overt accusative marking.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-03",
+      "name": "Genitive Possession Marker -ni",
+      "category": "case marking",
+      "description": "Possessive relationships and noun modification are marked by the genitive suffix -ni on the possessor noun phrase.",
+      "formula": "Possessor + -ni + Possessed",
+      "examples": [
+        {
+          "dimasa": "ani noh",
+          "gloss": "1SG.GEN house",
+          "translation": "my house"
+        },
+        {
+          "dimasa": "boni sa",
+          "gloss": "3SG.GEN child",
+          "translation": "his/her child"
+        },
+        {
+          "dimasa": "bongphang-ni bil",
+          "gloss": "tree-GEN leaf",
+          "translation": "leaf of the tree"
+        }
+      ],
+      "explanation": "Head-final genitive construction where possessor precedes the possessed head noun.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-04",
+      "name": "Dative / Benefactive Marker -ne / -thane",
+      "category": "case marking",
+      "description": "Indirect objects, recipients, and beneficiaries are marked by -ne or the expanded form -thane.",
+      "formula": "NP + -ne / -thane",
+      "examples": [
+        {
+          "dimasa": "ane di ri-bo",
+          "gloss": "1SG.DAT water give-IMP",
+          "translation": "Give me water"
+        },
+        {
+          "dimasa": "anthane ri-bo",
+          "gloss": "1SG.DAT give-IMP",
+          "translation": "Give to me"
+        }
+      ],
+      "explanation": "Pronominal stems assimilate before -thane: ang + thane -> anthane; ning + thane -> ninthane.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-05",
+      "name": "Locative Case Marker -ha",
+      "category": "case marking",
+      "description": "Spatial location, position, and static presence ('at, in, on') are marked by the locative postposition -ha.",
+      "formula": "NP + -ha",
+      "examples": [
+        {
+          "dimasa": "bo noh-ha doŋ",
+          "gloss": "3SG house-LOC exist",
+          "translation": "He is at home"
+        },
+        {
+          "dimasa": "di-ha na doŋ",
+          "gloss": "water-LOC fish exist",
+          "translation": "There are fish in the water"
+        },
+        {
+          "dimasa": "hasao-ha",
+          "gloss": "hills-LOC",
+          "translation": "in the hills"
+        }
+      ],
+      "explanation": "Attaches directly to noun phrases or place names to signify static spatial location or directional endpoint.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-06",
+      "name": "Ablative Source Marker -niphang / -nipra",
+      "category": "case marking",
+      "description": "Movement away from a location or source ('from') is marked by the compound ablative suffix -niphang or -nipra.",
+      "formula": "NP + -niphang / -nipra",
+      "examples": [
+        {
+          "dimasa": "bo noh-niphang phai-ba",
+          "gloss": "3SG house-ABL come-PST",
+          "translation": "He came from the house"
+        },
+        {
+          "dimasa": "haflong-niphang",
+          "gloss": "Haflong-ABL",
+          "translation": "from Haflong"
+        }
+      ],
+      "explanation": "A composite postposition combining genitive -ni with directional base -phang / -pra.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-07",
+      "name": "Instrumental Marker -shi / -neha",
+      "category": "case marking",
+      "description": "The instrument or means by which an action is performed is indicated by -shi or -neha.",
+      "formula": "NP[instrument] + -shi / -neha",
+      "examples": [
+        {
+          "dimasa": "khur-shi",
+          "gloss": "hand-INS",
+          "translation": "with the hand"
+        },
+        {
+          "dimasa": "seng-shi",
+          "gloss": "sword-INS",
+          "translation": "with a sword"
+        }
+      ],
+      "explanation": "Identifies instrumental agency in transitive clauses.",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "id": "CASE-08",
+      "name": "Comitative / Sociative Marker -ba / -jawa",
+      "category": "case marking",
+      "description": "Comitative association ('with, along with') is marked by postpositions -ba, -jawa, or -lai.",
+      "formula": "NP + -jawa / -ba",
+      "examples": [
+        {
+          "dimasa": "ang bo-jawa thang-ma",
+          "gloss": "1SG 3SG-COM go-FUT",
+          "translation": "I will go with him"
+        },
+        {
+          "dimasa": "ang bo",
+          "gloss": "1SG also",
+          "translation": "I too / I also"
+        }
+      ],
+      "explanation": "Expresses accompaniment and additive discourse relation.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "VERB-01",
+      "name": "Neutrality of Person and Gender Agreement",
+      "category": "verb morphology",
+      "description": "Dimasa verbs do not inflect for grammatical person (1st, 2nd, 3rd) or gender; the verb form is determined strictly by TAM and polarity.",
+      "formula": "Verb = Stem + [Aspect] + [Tense/Mood] (person/gender invariable)",
+      "examples": [
+        {
+          "dimasa": "ang thang-du",
+          "gloss": "1SG go-IPFV",
+          "translation": "I am going"
+        },
+        {
+          "dimasa": "ning thang-du",
+          "gloss": "2SG go-IPFV",
+          "translation": "You are going"
+        },
+        {
+          "dimasa": "bo thang-du",
+          "gloss": "3SG go-IPFV",
+          "translation": "He is going"
+        }
+      ],
+      "explanation": "Unlike Indo-Aryan languages, Dimasa predicates have zero agreement morphology for person or gender.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "TAM-01",
+      "name": "Present Imperfective / Continuous -du",
+      "category": "tense and aspect",
+      "description": "The suffix -du marks present imperfective, progressive, and ongoing actions in the present time.",
+      "formula": "VerbRoot + -du",
+      "examples": [
+        {
+          "dimasa": "ang di lung-du",
+          "gloss": "1SG water drink-IPFV",
+          "translation": "I am drinking water"
+        },
+        {
+          "dimasa": "bo mai zi-du",
+          "gloss": "3SG rice eat-IPFV",
+          "translation": "He is eating rice"
+        }
+      ],
+      "explanation": "Standard marker of present ongoing action or current stative event.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "TAM-02",
+      "name": "Non-Future Imperfective / Past -ba",
+      "category": "tense and aspect",
+      "description": "The suffix -ba marks non-future imperfective and narrative past events.",
+      "formula": "VerbRoot + -ba",
+      "examples": [
+        {
+          "dimasa": "bo noh-ha thang-ba",
+          "gloss": "3SG house-LOC go-PST",
+          "translation": "He went home"
+        },
+        {
+          "dimasa": "ang bo-khe nu-ba",
+          "gloss": "1SG 3SG-ACC see-PST",
+          "translation": "I saw him"
+        }
+      ],
+      "explanation": "Primary past narrative tense-aspect marker in Dimasa discourse.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "TAM-03",
+      "name": "Past Perfective / Completive -kadu",
+      "category": "tense and aspect",
+      "description": "Completed actions with persisting present relevance are marked by the completive aspect suffix -kadu.",
+      "formula": "VerbRoot + -kadu",
+      "examples": [
+        {
+          "dimasa": "bosi phai-kadu",
+          "gloss": "3PL come-PFV",
+          "translation": "They have arrived"
+        },
+        {
+          "dimasa": "mai ha-kadu",
+          "gloss": "rice harvest-PFV",
+          "translation": "The paddy has been harvested"
+        }
+      ],
+      "explanation": "Marks aspectual completion prior to reference time.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "TAM-04",
+      "name": "Future / Prospective Tense -ma / -nang",
+      "category": "tense and aspect",
+      "description": "Future intentions, predictions, and upcoming events are marked by the prospective suffix -ma or -nang.",
+      "formula": "VerbRoot + -ma / -nang",
+      "examples": [
+        {
+          "dimasa": "ang noh-ha thang-ma",
+          "gloss": "1SG house-LOC go-FUT",
+          "translation": "I will go home"
+        },
+        {
+          "dimasa": "ching phai-ma",
+          "gloss": "1PL come-FUT",
+          "translation": "We will come"
+        }
+      ],
+      "explanation": "The marker -ma is the standard future tense marker across Dimasa dialects.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "MOOD-01",
+      "name": "Imperative Suffix -bo",
+      "category": "mood",
+      "description": "Affirmative imperative directives and requests are formed by suffixing -bo to the bare verb root.",
+      "formula": "VerbRoot + -bo",
+      "examples": [
+        {
+          "dimasa": "thang-bo",
+          "gloss": "go-IMP",
+          "translation": "Go!"
+        },
+        {
+          "dimasa": "zi-bo",
+          "gloss": "eat-IMP",
+          "translation": "Eat!"
+        },
+        {
+          "dimasa": "ane di ri-bo",
+          "gloss": "1SG.DAT water give-IMP",
+          "translation": "Give me water!"
+        }
+      ],
+      "explanation": "Standard affirmative command or polite request form.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NEG-01",
+      "name": "Prohibitive Prefix da- (Negative Imperative)",
+      "category": "negation",
+      "description": "Negative commands ('don't do X!') are formed by prefixing da- to the verb stem without the imperative suffix.",
+      "formula": "da- + VerbRoot",
+      "examples": [
+        {
+          "dimasa": "da-thang",
+          "gloss": "PROH-go",
+          "translation": "Don't go!"
+        },
+        {
+          "dimasa": "da-zi",
+          "gloss": "PROH-eat",
+          "translation": "Don't eat!"
+        },
+        {
+          "dimasa": "da-phai",
+          "gloss": "PROH-come",
+          "translation": "Don't come!"
+        }
+      ],
+      "explanation": "The prohibitive prefix da- attaches directly to the verb stem and blocks affirmative imperative marking.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NEG-02",
+      "name": "General Negative Suffix -ja / -ya",
+      "category": "negation",
+      "description": "Declarative negation is formed by suffixing -ja or -ya to the verb stem.",
+      "formula": "VerbRoot + -ja / -ya",
+      "examples": [
+        {
+          "dimasa": "ang thang-ja",
+          "gloss": "1SG go-NEG",
+          "translation": "I do not go / I will not go"
+        },
+        {
+          "dimasa": "bo zi-ja",
+          "gloss": "3SG eat-NEG",
+          "translation": "He does not eat"
+        },
+        {
+          "dimasa": "nu-ja",
+          "gloss": "see-NEG",
+          "translation": "does not see"
+        }
+      ],
+      "explanation": "Standard polarity negation marker attaching directly to verbal roots.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NEG-03",
+      "name": "Tense-Aspect Neutralization Under Negation",
+      "category": "negation",
+      "description": "In negated verbal clauses, fine-grained tense-aspect distinctions (such as -du or -ba) are collapsed and omitted in favor of the bare negative suffix -ja.",
+      "formula": "VerbRoot + -ja (TAM suffixes deleted)",
+      "examples": [
+        {
+          "dimasa": "bo thang-du (affirmative) -> bo thang-ja (negative)",
+          "gloss": "3SG go-IPFV -> 3SG go-NEG",
+          "translation": "He is going -> He is not going"
+        },
+        {
+          "dimasa": "ang nu-ba (affirmative) -> ang nu-ja (negative)",
+          "gloss": "1SG see-PST -> 1SG see-NEG",
+          "translation": "I saw -> I did not see"
+        }
+      ],
+      "explanation": "Crucial typological feature of Dimasa documented by Evans & Langthasa (2024): polarity overrides aspectual suffixation slots.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NEG-04",
+      "name": "Suppletive Negative Existential Copula giri",
+      "category": "negation",
+      "description": "Absence and non-existence are expressed through the dedicated negative copula giri, which suppletes the affirmative existential dong.",
+      "formula": "NP + giri (negates NP + dong)",
+      "examples": [
+        {
+          "dimasa": "noh-ha di doŋ",
+          "gloss": "house-LOC water exist",
+          "translation": "There is water in the house"
+        },
+        {
+          "dimasa": "noh-ha di giri",
+          "gloss": "house-LOC water NEG.EXIST",
+          "translation": "There is no water in the house"
+        }
+      ],
+      "explanation": "Negative copula giri functions as an independent lexical predicate indicating non-existence or absence.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "SYNT-01",
+      "name": "SOV Basic Word Order",
+      "category": "syntax",
+      "description": "Dimasa is canonically head-final with canonical Subject - Object - Verb clause order.",
+      "formula": "Clause -> Subject [Object] Verb",
+      "examples": [
+        {
+          "dimasa": "ang di lung-du",
+          "gloss": "1SG water drink-IPFV",
+          "translation": "I drink water (S O V)"
+        },
+        {
+          "dimasa": "bo mai zi-ba",
+          "gloss": "3SG rice eat-PST",
+          "translation": "He ate rice (S O V)"
+        }
+      ],
+      "explanation": "Verb always occupies the clause-final predicate position in neutral declarative clauses.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "SYNT-02",
+      "name": "Head-Final Postpositional Phrasing",
+      "category": "syntax",
+      "description": "Dimasa utilizes postpositions rather than prepositions; relational markers follow the noun phrase.",
+      "formula": "PP -> NP + Postposition",
+      "examples": [
+        {
+          "dimasa": "noh-ha",
+          "gloss": "house-LOC",
+          "translation": "in the house"
+        },
+        {
+          "dimasa": "haflong-niphang",
+          "gloss": "Haflong-ABL",
+          "translation": "from Haflong"
+        }
+      ],
+      "explanation": "Direct correlate of canonical OV clausal typology.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "QUES-01",
+      "name": "Polar Interrogative Particle -na",
+      "category": "questions",
+      "description": "Yes/no questions are formed by appending the interrogative enclitic -na to the clause-final predicate.",
+      "formula": "Clause + =na",
+      "examples": [
+        {
+          "dimasa": "ning mai zi-ba-na?",
+          "gloss": "2SG rice eat-PST-Q",
+          "translation": "Did you eat rice?"
+        },
+        {
+          "dimasa": "bo phai-ma-na?",
+          "gloss": "3SG come-FUT-Q",
+          "translation": "Will he come?"
+        }
+      ],
+      "explanation": "Cliticizes to the final verb to convert declarative clauses into polar questions.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "QUES-02",
+      "name": "In-Situ Content Questions (Wh-in-situ)",
+      "category": "questions",
+      "description": "Wh-interrogative words (sar, tamah, baha, baphai, bedehe, nadinang) remain in-situ in their canonical syntactic argument positions.",
+      "formula": "S [Interrogative] V?",
+      "examples": [
+        {
+          "dimasa": "ning baha thang-du?",
+          "gloss": "2SG where go-IPFV",
+          "translation": "Where are you going?"
+        },
+        {
+          "dimasa": "ning tamah zi-du?",
+          "gloss": "2SG what eat-IPFV",
+          "translation": "What are you eating?"
+        },
+        {
+          "dimasa": "sar phai-ba?",
+          "gloss": "who come-PST",
+          "translation": "Who came?"
+        }
+      ],
+      "explanation": "Question words do not front to clause-initial position unlike in English.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NUM-01",
+      "name": "Numeral Classifier Syntax and Definiteness Correlation",
+      "category": "numerals and classifiers",
+      "description": "Dimasa requires numeral classifiers when counting nouns. Word order correlates with definiteness: Classifier-Numeral + Noun is indefinite, Noun + Classifier-Numeral is definite.",
+      "formula": "Indefinite: [CLF-NUM] + N; Definite: N + [CLF-NUM]",
+      "examples": [
+        {
+          "dimasa": "ma-si sisa",
+          "gloss": "CLF.animal-one dog",
+          "translation": "a dog (indefinite)"
+        },
+        {
+          "dimasa": "sisa ma-si",
+          "gloss": "dog CLF.animal-one",
+          "translation": "the dog / the one dog (definite)"
+        }
+      ],
+      "explanation": "Prominent typological feature in Dimasa syntax documented by Longmailai (2014) and Evans & Langthasa (2024).",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NUM-02",
+      "name": "Human Classifier sao-",
+      "category": "numerals and classifiers",
+      "description": "Human beings are counted using the numeral classifier sao- (derived from the lexical root for 'body').",
+      "formula": "sao- + NumeralRoot",
+      "examples": [
+        {
+          "dimasa": "subun sao-si",
+          "gloss": "person CLF.human-one",
+          "translation": "one person"
+        },
+        {
+          "dimasa": "subun sao-gin",
+          "gloss": "person CLF.human-two",
+          "translation": "two people"
+        },
+        {
+          "dimasa": "hinjaosa sao-tham",
+          "gloss": "woman CLF.human-three",
+          "translation": "three women"
+        }
+      ],
+      "explanation": "Obligatory classifier for all human referents.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NUM-03",
+      "name": "Rigid Long Object Classifier gong-",
+      "category": "numerals and classifiers",
+      "description": "Long, rigid, cylindrical, and stick-like objects (pens, sticks, horns, weapons) are classified by gong- / gon-.",
+      "formula": "gong- / gon- + NumeralRoot",
+      "examples": [
+        {
+          "dimasa": "repgon gon-si",
+          "gloss": "pen CLF.long-one",
+          "translation": "one pen"
+        },
+        {
+          "dimasa": "seng gon-gin",
+          "gloss": "sword CLF.long-two",
+          "translation": "two swords"
+        }
+      ],
+      "explanation": "Classifies objects according to long, rigid 1D dimensional shape.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NUM-04",
+      "name": "Tree and Plant Classifier phang-",
+      "category": "numerals and classifiers",
+      "description": "Trees, plants, bushes, and growing woody stalks are counted using the classifier phang-.",
+      "formula": "phang- + NumeralRoot",
+      "examples": [
+        {
+          "dimasa": "bongphang phang-si",
+          "gloss": "tree CLF.tree-one",
+          "translation": "one tree"
+        },
+        {
+          "dimasa": "bongphang phang-bri",
+          "gloss": "tree CLF.tree-four",
+          "translation": "four trees"
+        }
+      ],
+      "explanation": "Semantic classifier specialized for botanical flora.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NUM-05",
+      "name": "Flat Object Classifier khang-",
+      "category": "numerals and classifiers",
+      "description": "Flat, 2-dimensional sheet-like items (paper, leaves, mats) take the classifier khang-.",
+      "formula": "khang- + NumeralRoot",
+      "examples": [
+        {
+          "dimasa": "lekhabil khang-si",
+          "gloss": "paper CLF.flat-one",
+          "translation": "one sheet of paper"
+        },
+        {
+          "dimasa": "bil khang-gin",
+          "gloss": "leaf CLF.flat-two",
+          "translation": "two leaves"
+        }
+      ],
+      "explanation": "Classifies objects according to planar 2D dimensional shape.",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "id": "NUM-06",
+      "name": "Default and Animate Classifier ma-",
+      "category": "numerals and classifiers",
+      "description": "Animals, non-human living beings, and generic counting objects take the default classifier ma-.",
+      "formula": "ma- + NumeralRoot",
+      "examples": [
+        {
+          "dimasa": "sisa ma-si",
+          "gloss": "dog CLF.general-one",
+          "translation": "one dog"
+        },
+        {
+          "dimasa": "alu ma-gin",
+          "gloss": "cat CLF.general-two",
+          "translation": "two cats"
+        },
+        {
+          "dimasa": "na ma-tham",
+          "gloss": "fish CLF.general-three",
+          "translation": "three fish"
+        }
+      ],
+      "explanation": "Serves both as the generic default classifier and as the specialized animal classifier.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "WORD-01",
+      "name": "Adjectival Prefixation with g- / ge-",
+      "category": "word formation",
+      "description": "Descriptive adjectives are derived from stative roots by prefixing g- / ge- / gd-.",
+      "formula": "g- + StativeRoot",
+      "examples": [
+        {
+          "dimasa": "gdain",
+          "gloss": "g- + dain",
+          "translation": "new (from dain)"
+        },
+        {
+          "dimasa": "gsom",
+          "gloss": "g- + som",
+          "translation": "black (from som)"
+        },
+        {
+          "dimasa": "gphu",
+          "gloss": "g- + phu",
+          "translation": "white (from phu)"
+        },
+        {
+          "dimasa": "gjah",
+          "gloss": "g- + jah",
+          "translation": "red (from jah)"
+        }
+      ],
+      "explanation": "Shared archaic Bodo-Garo morphological prefix marking nominalized attributes.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "REDU-01",
+      "name": "Complete Verbal Reduplication for Intensification",
+      "category": "reduplication",
+      "description": "Verbal and adjectival stems undergo full reduplication to indicate iterative action, continuous state, or intensification.",
+      "formula": "Stem -> Stem-Stem",
+      "examples": [
+        {
+          "dimasa": "didi",
+          "gloss": "water-water",
+          "translation": "watery / very wet"
+        },
+        {
+          "dimasa": "kat-kat",
+          "gloss": "run-run",
+          "translation": "running continuously"
+        }
+      ],
+      "explanation": "Productive iconicity strategy in Dimasa oral discourse.",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    }
+  ]
+}

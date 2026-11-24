@@ -1,0 +1,3180 @@
+{
+  "entries": [
+    {
+      "headword": "di",
+      "english": "water, river, liquid",
+      "hindi": "पानी, जल, नदी",
+      "bengali": "জল, পানি, নদী",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "di",
+      "romanized": "di",
+      "bengali_script": "দি",
+      "example_sentence": "ang di lung-du.",
+      "example_translation": "I am drinking water.",
+      "morphological_root": "di",
+      "derived_forms": [
+        "dima",
+        "dijao",
+        "didi",
+        "dikhling",
+        "dimasa"
+      ],
+      "synonyms": [
+        "dzi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dima",
+      "english": "big river, the Brahmaputra river",
+      "hindi": "बड़ी नदी, ब्रह्मपुत्र नदी",
+      "bengali": "বড় নদী, ব্রহ্মপুত্র নদ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dima",
+      "romanized": "dima",
+      "bengali_script": "দিমা",
+      "example_sentence": "dima gjao-ba doŋ.",
+      "example_translation": "The big river is long.",
+      "morphological_root": "di",
+      "derived_forms": [
+        "dimasa"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "disa"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dimasa",
+      "english": "Dimasa people, child/son of the big river",
+      "hindi": "दिमासा लोग, बड़ी नदी की संतान",
+      "bengali": "দিমাসা সম্প্রদায়, বড় নদীর সন্তান",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dimasa",
+      "romanized": "dimasa",
+      "bengali_script": "দিমাসা",
+      "example_sentence": "ching dimasa subun-rao doŋ.",
+      "example_translation": "We are Dimasa people.",
+      "morphological_root": "di",
+      "derived_forms": [
+        "grao dima",
+        "dima hasao"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "disa",
+      "english": "stream, brook, small river",
+      "hindi": "छोटा झरना, नाला, छोटी नदी",
+      "bengali": "ছোট নদী, ঝরনা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "disa",
+      "romanized": "disa",
+      "bengali_script": "দিসা",
+      "example_sentence": "disa-ha na doŋ.",
+      "example_translation": "There are fish in the stream.",
+      "morphological_root": "di",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "dima"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "noh",
+      "english": "house, home, dwelling",
+      "hindi": "घर, मकान",
+      "bengali": "ঘর, বাড়ি",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "noh",
+      "romanized": "noh",
+      "bengali_script": "নহ",
+      "example_sentence": "bo noh-ha doŋ.",
+      "example_translation": "He is at home.",
+      "morphological_root": "noh",
+      "derived_forms": [
+        "nohkhor",
+        "nohbaphar"
+      ],
+      "synonyms": [
+        "no"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "nohkhor",
+      "english": "family, household",
+      "hindi": "परिवार, गृहस्थी",
+      "bengali": "পরিবার, সংসার",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "nohkʰoɾ",
+      "romanized": "nohkhor",
+      "bengali_script": "নহখোর",
+      "example_sentence": "ani nohkhor gbang-ba doŋ.",
+      "example_translation": "My family is large.",
+      "morphological_root": "noh",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "hasao",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "san",
+      "english": "sun, day, daytime",
+      "hindi": "सूर्य, दिन",
+      "bengali": "সূর্য, দিন",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "san",
+      "romanized": "san",
+      "bengali_script": "সান",
+      "example_sentence": "san gja-ba ong-du.",
+      "example_translation": "The sun is hot.",
+      "morphological_root": "san",
+      "derived_forms": [
+        "sanjili",
+        "sanso"
+      ],
+      "synonyms": [
+        "sain"
+      ],
+      "antonyms": [
+        "hor"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "hor",
+      "english": "night",
+      "hindi": "रात, रात्रि",
+      "bengali": "রাত, রাত্রি",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "hoɾ",
+      "romanized": "hor",
+      "bengali_script": "হর",
+      "example_sentence": "hor-ha bo thu-ba.",
+      "example_translation": "At night he slept.",
+      "morphological_root": "hor",
+      "derived_forms": [
+        "horba"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "san"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dain",
+      "english": "moon, month",
+      "hindi": "चाँद, महीना",
+      "bengali": "চাঁদ, মাস",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dain",
+      "romanized": "dain",
+      "bengali_script": "দাইন",
+      "example_sentence": "dain gphu-ba doŋ.",
+      "example_translation": "The moon is bright/white.",
+      "morphological_root": "dain",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "wai",
+      "english": "fire",
+      "hindi": "आग, अग्नि",
+      "bengali": "আগুন, অগ্নি",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "wai",
+      "romanized": "wai",
+      "bengali_script": "ওয়াই",
+      "example_sentence": "wai kham-du.",
+      "example_translation": "The fire is burning.",
+      "morphological_root": "wai",
+      "derived_forms": [
+        "waimu"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ha",
+      "english": "land, earth, soil, ground",
+      "hindi": "धरती, भूमि, मिट्टी",
+      "bengali": "মাটি, ভূমি, দেশ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ha",
+      "romanized": "ha",
+      "bengali_script": "হা",
+      "example_sentence": "ebe ani ha doŋ.",
+      "example_translation": "This is my land.",
+      "morphological_root": "ha",
+      "derived_forms": [
+        "hasao",
+        "hadikhor"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "hasao",
+      "english": "hills, high ground, mountainous country",
+      "hindi": "पहाड़, पहाड़ी इलाका",
+      "bengali": "পাহাড়, পাহাড়ি অঞ্চল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "hasaw",
+      "romanized": "hasao",
+      "bengali_script": "হাসাও",
+      "example_sentence": "ching hasao-ha dong-du.",
+      "example_translation": "We live in the hills.",
+      "morphological_root": "ha",
+      "derived_forms": [
+        "dima hasao"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "hawar"
+      ],
+      "dialect": "hasao",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "hawar",
+      "english": "plains, valley, lowland",
+      "hindi": "मैदान, घाटी",
+      "bengali": "সমতল ভূমি, উপত্যকা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "hawaɾ",
+      "romanized": "hawar",
+      "bengali_script": "হাওয়ার",
+      "example_sentence": "hawar-ha mairang gbang-ba ba-du.",
+      "example_translation": "Much paddy grows in the plains.",
+      "morphological_root": "ha",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "hasao"
+      ],
+      "dialect": "hawar",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "bongphang",
+      "english": "tree, plant, wood",
+      "hindi": "पेड़, वृक्ष, लकड़ी",
+      "bengali": "গাছ, বৃক্ষ, কাঠ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "boŋpʰaŋ",
+      "romanized": "bongphang",
+      "bengali_script": "বংফাং",
+      "example_sentence": "bongphang phang-si no-giding-ha doŋ.",
+      "example_translation": "There is a tree near the house.",
+      "morphological_root": "phang",
+      "derived_forms": [
+        "bopang",
+        "phang-si"
+      ],
+      "synonyms": [
+        "bopang"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "bil",
+      "english": "leaf",
+      "hindi": "पत्ता, पर्ण",
+      "bengali": "পাতা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "bil",
+      "romanized": "bil",
+      "bengali_script": "বিল",
+      "example_sentence": "bongphang-ni bil glai-du.",
+      "example_translation": "The tree's leaf is falling.",
+      "morphological_root": "bil",
+      "derived_forms": [
+        "lekhabil"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "kham",
+      "english": "flower, bloom",
+      "hindi": "फूल, पुष्प",
+      "bengali": "ফুল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰam",
+      "romanized": "kham",
+      "bengali_script": "খাম",
+      "example_sentence": "kham bar-du.",
+      "example_translation": "The flower is blooming.",
+      "morphological_root": "kham",
+      "derived_forms": [
+        "bar"
+      ],
+      "synonyms": [
+        "bar"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "thaigir",
+      "english": "fruit",
+      "hindi": "फल",
+      "bengali": "ফল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "tʰaigiɾ",
+      "romanized": "thaigir",
+      "bengali_script": "থাইগির",
+      "example_sentence": "bo thaigir zi-du.",
+      "example_translation": "He is eating fruit.",
+      "morphological_root": "thai",
+      "derived_forms": [
+        "thai-si"
+      ],
+      "synonyms": [
+        "thairu"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mai",
+      "english": "paddy, rice plant, grain",
+      "hindi": "धान, चावल",
+      "bengali": "ধান, চাল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "mai",
+      "romanized": "mai",
+      "bengali_script": "মাই",
+      "example_sentence": "mai ha-ba doŋ.",
+      "example_translation": "The paddy is harvested.",
+      "morphological_root": "mai",
+      "derived_forms": [
+        "mairang",
+        "maiju",
+        "maibang"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mairang",
+      "english": "uncooked rice, cleaned rice",
+      "hindi": "चावल",
+      "bengali": "চাল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "maiɾaŋ",
+      "romanized": "mairang",
+      "bengali_script": "মাইরাং",
+      "example_sentence": "mairang son-bo.",
+      "example_translation": "Cook the rice.",
+      "morphological_root": "mai",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "sisa",
+      "english": "dog",
+      "hindi": "कुत्ता",
+      "bengali": "কুকুর",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "sisa",
+      "romanized": "sisa",
+      "bengali_script": "সিসা",
+      "example_sentence": "sisa ma-si noh-ha doŋ.",
+      "example_translation": "There is a dog at the house.",
+      "morphological_root": "si",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "alu",
+      "english": "cat",
+      "hindi": "बिल्ली",
+      "bengali": "বিড়াল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "alu",
+      "romanized": "alu",
+      "bengali_script": "আলু",
+      "example_sentence": "alu ma-si thu-du.",
+      "example_translation": "A cat is sleeping.",
+      "morphological_root": "alu",
+      "derived_forms": [],
+      "synonyms": [
+        "misa"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dao",
+      "english": "bird, fowl",
+      "hindi": "पक्षी, चिड़िया, मुर्गी",
+      "bengali": "পাখি, মুরগি",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "daw",
+      "romanized": "dao",
+      "bengali_script": "দাও",
+      "example_sentence": "dao bir-du.",
+      "example_translation": "The bird is flying.",
+      "morphological_root": "dao",
+      "derived_forms": [
+        "daosa",
+        "daodi",
+        "daogupu"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "daosa",
+      "english": "chick, young bird, chicken",
+      "hindi": "चूज़ा, मुर्गी का बच्चा",
+      "bengali": "মুরগির ছানা, পাখি ছানা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dawsa",
+      "romanized": "daosa",
+      "bengali_script": "দাওসা",
+      "example_sentence": "daosa ma-gin doŋ.",
+      "example_translation": "There are two chicks.",
+      "morphological_root": "dao",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "daodi",
+      "english": "egg",
+      "hindi": "अंडा",
+      "bengali": "ডিম",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dawdi",
+      "romanized": "daodi",
+      "bengali_script": "দাওদি",
+      "example_sentence": "bo daodi zi-ba.",
+      "example_translation": "He ate an egg.",
+      "morphological_root": "dao",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "na",
+      "english": "fish",
+      "hindi": "मछली, मत्स्य",
+      "bengali": "মাছ, মৎস্য",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "na",
+      "romanized": "na",
+      "bengali_script": "না",
+      "example_sentence": "di-ha na gbang-ba doŋ.",
+      "example_translation": "There are many fish in the water.",
+      "morphological_root": "na",
+      "derived_forms": [
+        "napham",
+        "nathaiba"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "napham",
+      "english": "traditional fermented fish paste preserved in bamboo tubes",
+      "hindi": "किण्वित मछली का पेस्ट",
+      "bengali": "গাঁজানো মাছের পেস্ট (বাঁশের চোঙে সংরক্ষিত)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "napʰam",
+      "romanized": "napham",
+      "bengali_script": "নাফাম",
+      "example_sentence": "napham thau-ba doŋ.",
+      "example_translation": "Napham is tasty.",
+      "morphological_root": "na",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "judima",
+      "english": "traditional Dimasa fermented rice wine brewed with thembra bark (GI tagged)",
+      "hindi": "जुदिमा (पारंपरिक दिमासा चावल की मदिरा)",
+      "bengali": "জুদিমা (ঐতিহ্যবাহী দিমাসা চালের পানীয়)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dʒudima",
+      "romanized": "judima",
+      "bengali_script": "জুদিমা",
+      "example_sentence": "bushu-ha judima lung-du.",
+      "example_translation": "During Bushu they drink Judima.",
+      "morphological_root": "ju",
+      "derived_forms": [
+        "juharo"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "bushu",
+      "english": "traditional annual post-harvest festival of the Dimasa",
+      "hindi": "बुशु (दिमासा समुदाय का फसल कटाई के बाद का प्रमुख उत्सव)",
+      "bengali": "বুশু (দিমাসাদের নবান্ন উৎসব)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "buʃu",
+      "romanized": "bushu",
+      "bengali_script": "বুশু",
+      "example_sentence": "bushu dima makhang phai-du.",
+      "example_translation": "Bushu Dima is approaching.",
+      "morphological_root": "bushu",
+      "derived_forms": [
+        "bushu dima",
+        "hangseu bushu",
+        "surem bushu",
+        "jidab bushu"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "subun",
+      "english": "person, human being, people",
+      "hindi": "व्यक्ति, मनुष्य, लोग",
+      "bengali": "মানুষ, ব্যক্তি, লোক",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "subun",
+      "romanized": "subun",
+      "bengali_script": "সুবুন",
+      "example_sentence": "subun sao-si phai-du.",
+      "example_translation": "One person is coming.",
+      "morphological_root": "subun",
+      "derived_forms": [
+        "subun-rao"
+      ],
+      "synonyms": [
+        "mansi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ai",
+      "english": "mother",
+      "hindi": "माँ, माता",
+      "bengali": "মা, মাতা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ai",
+      "romanized": "ai",
+      "bengali_script": "আই",
+      "example_sentence": "ani ai noh-ha doŋ.",
+      "example_translation": "My mother is at home.",
+      "morphological_root": "ai",
+      "derived_forms": [
+        "awa"
+      ],
+      "synonyms": [
+        "awa"
+      ],
+      "antonyms": [
+        "pha",
+        "bopha"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "pha",
+      "english": "father",
+      "hindi": "पिता, बाप",
+      "bengali": "বাবা, পিতা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "pʰa",
+      "romanized": "pha",
+      "bengali_script": "ফা",
+      "example_sentence": "ani pha haba-ha thang-ba.",
+      "example_translation": "My father went to the field.",
+      "morphological_root": "pha",
+      "derived_forms": [
+        "bopha"
+      ],
+      "synonyms": [
+        "bopha"
+      ],
+      "antonyms": [
+        "ai"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "sa",
+      "english": "son, child, offspring",
+      "hindi": "बेटा, संतान, बच्चा",
+      "bengali": "ছেলে, সন্তান",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "sa",
+      "romanized": "sa",
+      "bengali_script": "সা",
+      "example_sentence": "boni sa gham-ba doŋ.",
+      "example_translation": "His son is good.",
+      "morphological_root": "sa",
+      "derived_forms": [
+        "bosa",
+        "hinjaosa",
+        "garosa"
+      ],
+      "synonyms": [
+        "bosa"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "hinjaosa",
+      "english": "girl, woman, female child",
+      "hindi": "लड़की, स्त्री, कन्या",
+      "bengali": "মেয়ে, নারী, কন্যা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "hindʒawsa",
+      "romanized": "hinjaosa",
+      "bengali_script": "হিনজাওসা",
+      "example_sentence": "hinjaosa sao-si rjab-du.",
+      "example_translation": "A girl is singing.",
+      "morphological_root": "hinjao",
+      "derived_forms": [
+        "hinjaosa-rao"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "garosa",
+        "damusa"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "garosa",
+      "english": "boy, young man, male child",
+      "hindi": "लड़का, युवक, बालक",
+      "bengali": "ছেলে, বালক, যুবক",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "gaɾawsa",
+      "romanized": "garosa",
+      "bengali_script": "গারওসা",
+      "example_sentence": "garosa repgon la-ba.",
+      "example_translation": "The boy took the pen.",
+      "morphological_root": "garo",
+      "derived_forms": [
+        "garosa-rao"
+      ],
+      "synonyms": [
+        "damusa"
+      ],
+      "antonyms": [
+        "hinjaosa"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ang",
+      "english": "I, me (1st person singular pronoun)",
+      "hindi": "मैं",
+      "bengali": "আমি",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "aŋ",
+      "romanized": "ang",
+      "bengali_script": "আং",
+      "example_sentence": "ang grao dima solob-du.",
+      "example_translation": "I am learning the Dimasa language.",
+      "morphological_root": "ang",
+      "derived_forms": [
+        "ani",
+        "ane",
+        "anthane",
+        "ang-khe"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ching",
+      "english": "we, us (1st person plural pronoun)",
+      "hindi": "हम",
+      "bengali": "আমরা",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "tʃʰiŋ",
+      "romanized": "ching",
+      "bengali_script": "ছিং",
+      "example_sentence": "ching haflong-ha thang-ma.",
+      "example_translation": "We will go to Haflong.",
+      "morphological_root": "ching",
+      "derived_forms": [
+        "chini",
+        "chine",
+        "chinthane",
+        "ching-khe"
+      ],
+      "synonyms": [
+        "jing"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ning",
+      "english": "you (2nd person singular pronoun)",
+      "hindi": "तुम, आप",
+      "bengali": "তুমি, আপনি",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "niŋ",
+      "romanized": "ning",
+      "bengali_script": "নিং",
+      "example_sentence": "ning baha thang-du?",
+      "example_translation": "Where are you going?",
+      "morphological_root": "ning",
+      "derived_forms": [
+        "nini",
+        "nine",
+        "ninthane",
+        "ning-khe"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "nisi",
+      "english": "you all, you (2nd person plural pronoun)",
+      "hindi": "तुम सब, आप लोग",
+      "bengali": "তোমরা, আপনারা",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "nisi",
+      "romanized": "nisi",
+      "bengali_script": "নিসি",
+      "example_sentence": "nisi mai zi-ba-na?",
+      "example_translation": "Did you all eat rice?",
+      "morphological_root": "ning",
+      "derived_forms": [
+        "nisini",
+        "nisine",
+        "nisi-khe"
+      ],
+      "synonyms": [
+        "nishi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "bo",
+      "english": "he, she, it, this (3rd person singular pronoun)",
+      "hindi": "वह, यह",
+      "bengali": "সে, তিনি, এটা",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "bo",
+      "romanized": "bo",
+      "bengali_script": "বো",
+      "example_sentence": "bo ani lagao doŋ.",
+      "example_translation": "He is my friend.",
+      "morphological_root": "bo",
+      "derived_forms": [
+        "boni",
+        "bone",
+        "bothane",
+        "bo-khe"
+      ],
+      "synonyms": [
+        "ebe"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "bosi",
+      "english": "they, them (3rd person plural pronoun)",
+      "hindi": "वे, वे लोग",
+      "bengali": "তারা, তাহারা",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "bosi",
+      "romanized": "bosi",
+      "bengali_script": "বোসি",
+      "example_sentence": "bosi phai-kadu.",
+      "example_translation": "They have arrived.",
+      "morphological_root": "bo",
+      "derived_forms": [
+        "bosini",
+        "bosine",
+        "bosi-khe",
+        "bosi-rao"
+      ],
+      "synonyms": [
+        "bunshi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "zi",
+      "english": "to eat",
+      "hindi": "खाना",
+      "bengali": "খাওয়া",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "zi",
+      "romanized": "zi",
+      "bengali_script": "জি",
+      "example_sentence": "ang mai zi-du.",
+      "example_translation": "I am eating rice.",
+      "morphological_root": "zi",
+      "derived_forms": [
+        "zi-ba",
+        "zi-ma",
+        "zi-bo",
+        "da-zi",
+        "zi-ja",
+        "zi-ri"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "lung",
+      "english": "to drink",
+      "hindi": "पीना",
+      "bengali": "পান করা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "luŋ",
+      "romanized": "lung",
+      "bengali_script": "লুং",
+      "example_sentence": "bo di lung-ba.",
+      "example_translation": "He drank water.",
+      "morphological_root": "lung",
+      "derived_forms": [
+        "lung-du",
+        "lung-ba",
+        "lung-ma",
+        "lung-bo",
+        "da-lung",
+        "lung-ja"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "thang",
+      "english": "to go",
+      "hindi": "जाना",
+      "bengali": "যাওয়া",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "tʰaŋ",
+      "romanized": "thang",
+      "bengali_script": "থাং",
+      "example_sentence": "ang noh-ha thang-ma.",
+      "example_translation": "I will go home.",
+      "morphological_root": "thang",
+      "derived_forms": [
+        "thang-du",
+        "thang-ba",
+        "thang-ma",
+        "thang-bo",
+        "da-thang",
+        "thang-ja",
+        "thang-kadu"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "phai"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "phai",
+      "english": "to come, arrive",
+      "hindi": "आना, पहुँचना",
+      "bengali": "আসা, পৌঁছানো",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "pʰai",
+      "romanized": "phai",
+      "bengali_script": "ফাই",
+      "example_sentence": "bo baphai phai-ba?",
+      "example_translation": "When did he come?",
+      "morphological_root": "phai",
+      "derived_forms": [
+        "phai-du",
+        "phai-ba",
+        "phai-ma",
+        "phai-bo",
+        "da-phai",
+        "phai-ja"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "thang"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "nu",
+      "english": "to see, look, perceive",
+      "hindi": "देखना",
+      "bengali": "দেখা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "nu",
+      "romanized": "nu",
+      "bengali_script": "নু",
+      "example_sentence": "ang bo-khe nu-ba.",
+      "example_translation": "I saw him.",
+      "morphological_root": "nu",
+      "derived_forms": [
+        "nu-du",
+        "nu-ba",
+        "nu-ma",
+        "nu-bo",
+        "da-nu",
+        "nu-ja"
+      ],
+      "synonyms": [
+        "nai"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "thu",
+      "english": "to sleep, lie down",
+      "hindi": "सोना, लेटना",
+      "bengali": "ঘুমানো, শোয়া",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "tʰu",
+      "romanized": "thu",
+      "bengali_script": "থু",
+      "example_sentence": "sa thu-du.",
+      "example_translation": "The child is sleeping.",
+      "morphological_root": "thu",
+      "derived_forms": [
+        "thu-du",
+        "thu-ba",
+        "thu-ma",
+        "thu-bo",
+        "da-thu",
+        "thu-ja"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ri",
+      "english": "to give, grant",
+      "hindi": "देना",
+      "bengali": "দেওয়া",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "ɾi",
+      "romanized": "ri",
+      "bengali_script": "রি",
+      "example_sentence": "ane di ri-bo.",
+      "example_translation": "Give me water.",
+      "morphological_root": "ri",
+      "derived_forms": [
+        "ri-du",
+        "ri-ba",
+        "ri-ma",
+        "ri-bo",
+        "da-ri",
+        "ri-ja"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "la"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "la",
+      "english": "to take, receive, accept",
+      "hindi": "लेना, स्वीकार करना",
+      "bengali": "নেওয়া, গ্রহণ করা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "la",
+      "romanized": "la",
+      "bengali_script": "লা",
+      "example_sentence": "ning gdain-ke la.",
+      "example_translation": "You take the new one.",
+      "morphological_root": "la",
+      "derived_forms": [
+        "la-du",
+        "la-ba",
+        "la-ma",
+        "la-bo",
+        "da-la",
+        "la-ja"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ri"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dong",
+      "english": "to exist, be present, have",
+      "hindi": "होना, उपस्थित होना, पास होना",
+      "bengali": "আছ, থাকা, বিদ্যমান থাকা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "doŋ",
+      "romanized": "dong",
+      "bengali_script": "দং",
+      "example_sentence": "noh-ha mairang doŋ.",
+      "example_translation": "There is rice in the house.",
+      "morphological_root": "dong",
+      "derived_forms": [
+        "dong-du",
+        "dong-ba",
+        "dong-ma"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "giri"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "giri",
+      "english": "not exist, be absent, not have (negative existential copula)",
+      "hindi": "नहीं होना, अनुपस्थित होना, न होना",
+      "bengali": "নেই, না থাকা, অনুপস্থিত",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "giɾi",
+      "romanized": "giri",
+      "bengali_script": "গিরি",
+      "example_sentence": "noh-ha di giri.",
+      "example_translation": "There is no water in the house.",
+      "morphological_root": "giri",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "dong"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "hamba",
+      "english": "good, well, pleasant",
+      "hindi": "अच्छा, भला, बढ़िया",
+      "bengali": "ভালো, সুন্দর",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "hamba",
+      "romanized": "hamba",
+      "bengali_script": "হামবা",
+      "example_sentence": "ebe subun hamba doŋ.",
+      "example_translation": "This person is good.",
+      "morphological_root": "ham",
+      "derived_forms": [
+        "ham",
+        "hama",
+        "ham-bi"
+      ],
+      "synonyms": [
+        "gdawa"
+      ],
+      "antonyms": [
+        "hama"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "hama",
+      "english": "bad, not good, unwell",
+      "hindi": "बुरा, खराब",
+      "bengali": "খারাপ, মন্দ",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "hama",
+      "romanized": "hama",
+      "bengali_script": "হামা",
+      "example_sentence": "bo hama subun doŋ.",
+      "example_translation": "He is a bad person.",
+      "morphological_root": "ham",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "hamba"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gdain",
+      "english": "new, fresh",
+      "hindi": "नया, ताज़ा",
+      "bengali": "নতুন, তাজা",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡədain",
+      "romanized": "gdain",
+      "bengali_script": "গদাইন",
+      "example_sentence": "ani noh gdain doŋ.",
+      "example_translation": "My house is new.",
+      "morphological_root": "gdain",
+      "derived_forms": [
+        "gadaing"
+      ],
+      "synonyms": [
+        "gadaing"
+      ],
+      "antonyms": [
+        "gazam"
+      ],
+      "dialect": "hasao",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gazam",
+      "english": "old, ancient (of objects)",
+      "hindi": "पुराना, प्राचीन",
+      "bengali": "পুরোনো, প্রাচীন",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "gazam",
+      "romanized": "gazam",
+      "bengali_script": "গাজাম",
+      "example_sentence": "ebe noh gazam doŋ.",
+      "example_translation": "This house is old.",
+      "morphological_root": "zam",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "gdain"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gphu",
+      "english": "white, fair",
+      "hindi": "सफेद, श्वेत",
+      "bengali": "সাদা, শুভ্র",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡəpʰu",
+      "romanized": "gphu",
+      "bengali_script": "গফু",
+      "example_sentence": "daogupu gphu-ba doŋ.",
+      "example_translation": "The white fowl is white.",
+      "morphological_root": "phu",
+      "derived_forms": [
+        "gupu"
+      ],
+      "synonyms": [
+        "gupu"
+      ],
+      "antonyms": [
+        "gsom"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gsom",
+      "english": "black, dark",
+      "hindi": "काला, श्याम",
+      "bengali": "কালো, অন্ধকার",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡəsom",
+      "romanized": "gsom",
+      "bengali_script": "গসোম",
+      "example_sentence": "sisa gsom-ba doŋ.",
+      "example_translation": "The dog is black.",
+      "morphological_root": "som",
+      "derived_forms": [
+        "gasam"
+      ],
+      "synonyms": [
+        "gasam"
+      ],
+      "antonyms": [
+        "gphu"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gjah",
+      "english": "red",
+      "hindi": "लाल, रक्तवर्ण",
+      "bengali": "লাল, রক্তিম",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡədʒah",
+      "romanized": "gjah",
+      "bengali_script": "গজাহ",
+      "example_sentence": "kham gjah-ba doŋ.",
+      "example_translation": "The flower is red.",
+      "morphological_root": "jah",
+      "derived_forms": [
+        "gajao"
+      ],
+      "synonyms": [
+        "gajao"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gjao",
+      "english": "long, tall, high",
+      "hindi": "लंबा, ऊँचा",
+      "bengali": "লম্বা, দীর্ঘ, উঁচু",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡədʒaw",
+      "romanized": "gjao",
+      "bengali_script": "গজাও",
+      "example_sentence": "bongphang gjao-ba doŋ.",
+      "example_translation": "The tree is tall.",
+      "morphological_root": "jao",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "sgut"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ma",
+      "english": "big, great, large",
+      "hindi": "बड़ा, महान",
+      "bengali": "বড়, মহান",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ma",
+      "romanized": "ma",
+      "bengali_script": "মা",
+      "example_sentence": "dima ma-ba di doŋ.",
+      "example_translation": "Dima is a big river.",
+      "morphological_root": "ma",
+      "derived_forms": [
+        "dima",
+        "gidiba"
+      ],
+      "synonyms": [
+        "gidiba"
+      ],
+      "antonyms": [
+        "sa",
+        "disa"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gbang",
+      "english": "many, much, abundant",
+      "hindi": "बहुत, अनेक, प्रचुर",
+      "bengali": "অনেক, প্রচুর",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡəbaŋ",
+      "romanized": "gbang",
+      "bengali_script": "গবাং",
+      "example_sentence": "noh-ha subun gbang-ba doŋ.",
+      "example_translation": "There are many people at the house.",
+      "morphological_root": "bang",
+      "derived_forms": [
+        "gbang-ba"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "khere"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "sar",
+      "english": "who? (interrogative pronoun for human)",
+      "hindi": "कौन?",
+      "bengali": "কে?",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "saɾ",
+      "romanized": "sar",
+      "bengali_script": "সার",
+      "example_sentence": "sar phai-du?",
+      "example_translation": "Who is coming?",
+      "morphological_root": "sar",
+      "derived_forms": [
+        "sere"
+      ],
+      "synonyms": [
+        "sere"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "tamah",
+      "english": "what? (interrogative pronoun for non-human)",
+      "hindi": "क्या?",
+      "bengali": "কী?",
+      "part_of_speech": "pronoun",
+      "phonetic_ipa": "tamah",
+      "romanized": "tamah",
+      "bengali_script": "তামাহ",
+      "example_sentence": "ning tamah zi-du?",
+      "example_translation": "What are you eating?",
+      "morphological_root": "tamah",
+      "derived_forms": [
+        "nadi"
+      ],
+      "synonyms": [
+        "nadi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "baha",
+      "english": "where? (interrogative locative)",
+      "hindi": "कहाँ?",
+      "bengali": "কোথায়?",
+      "part_of_speech": "adverb",
+      "phonetic_ipa": "baha",
+      "romanized": "baha",
+      "bengali_script": "বাহা",
+      "example_sentence": "ning baha thang-du?",
+      "example_translation": "Where are you going?",
+      "morphological_root": "ba",
+      "derived_forms": [
+        "baraha",
+        "brahaha"
+      ],
+      "synonyms": [
+        "baraha"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "baphai",
+      "english": "when? (interrogative temporal)",
+      "hindi": "कब?",
+      "bengali": "কখন?",
+      "part_of_speech": "adverb",
+      "phonetic_ipa": "bapʰai",
+      "romanized": "baphai",
+      "bengali_script": "বাফাই",
+      "example_sentence": "bo baphai phai-ma?",
+      "example_translation": "When will he arrive?",
+      "morphological_root": "ba",
+      "derived_forms": [
+        "bakhali"
+      ],
+      "synonyms": [
+        "bakhali"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "bedehe",
+      "english": "how? in what manner?",
+      "hindi": "कैसे?",
+      "bengali": "কীভাবে? কেমন করে?",
+      "part_of_speech": "adverb",
+      "phonetic_ipa": "bedehe",
+      "romanized": "bedehe",
+      "bengali_script": "বেদেহো",
+      "example_sentence": "ning bedehe klai-ba?",
+      "example_translation": "How did you do it?",
+      "morphological_root": "bedehe",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "nadinang",
+      "english": "why? for what reason?",
+      "hindi": "क्यों? किसलिए?",
+      "bengali": "কেন? কী কারণে?",
+      "part_of_speech": "adverb",
+      "phonetic_ipa": "nadinaŋ",
+      "romanized": "nadinang",
+      "bengali_script": "নাদিনাং",
+      "example_sentence": "ning nadinang phai-ba?",
+      "example_translation": "Why did you come?",
+      "morphological_root": "nadi",
+      "derived_forms": [
+        "nadini"
+      ],
+      "synonyms": [
+        "nadini"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "rigu",
+      "english": "traditional Dimasa women's skirt worn around the waist",
+      "hindi": "रिगु (दिमासा महिलाओं का पारंपरिक निचला वस्त्र)",
+      "bengali": "রিগু (দিমাসা নারীদের নিম্নাঙ্গের ঐতিহ্যবাহী পোশাক)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɾiɡu",
+      "romanized": "rigu",
+      "bengali_script": "রিগু",
+      "example_sentence": "bo rigu gan-du.",
+      "example_translation": "She is wearing a Rigu.",
+      "morphological_root": "ri",
+      "derived_forms": [
+        "rigu beren"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "rikhaosa",
+      "english": "traditional Dimasa upper body wrapper/muffler",
+      "hindi": "रिखाओसा (दिमासा पारंपरिक दुपट्टा या ऊपरी वस्त्र)",
+      "bengali": "রিখাওসা (দিমাসাদের ঐতিহ্যবাহী উত্তরীয় বা চাদর)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɾikʰawsa",
+      "romanized": "rikhaosa",
+      "bengali_script": "রিখাওসা",
+      "example_sentence": "hinjaosa rikhaosa phan-du.",
+      "example_translation": "The woman is wearing a Rikhaosa.",
+      "morphological_root": "ri",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "rigdo",
+      "english": "short traditional Dimasa inner wrapper or cloth",
+      "hindi": "रिग्दो (पारंपरिक दिमासा भीतरी वस्त्र)",
+      "bengali": "রিগদো (দিমাসাদের ছোট অন্তঃবস্ত্র)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɾiɡdo",
+      "romanized": "rigdo",
+      "bengali_script": "রিগদো",
+      "example_sentence": "rigdo da-ri.",
+      "example_translation": "Give the Rigdo.",
+      "morphological_root": "ri",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "rimsao",
+      "english": "traditional Dimasa men's shawl/scarf",
+      "hindi": "रिमसाओ (दिमासा पुरुषों की पारंपरिक चादर/शॉल)",
+      "bengali": "রিমসাও (দিমাসা পুরুষদের চাদর)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɾimsaw",
+      "romanized": "rimsao",
+      "bengali_script": "রিমসাও",
+      "example_sentence": "bo rimsao gan-ba.",
+      "example_translation": "He wore a Rimsao.",
+      "morphological_root": "ri",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "sgaopha",
+      "english": "traditional Dimasa turban worn by men on ceremonial occasions",
+      "hindi": "स्गाओफा (पारंपरिक दिमासा पगड़ी)",
+      "bengali": "স্গাওফা (দিমাসা পাগড়ি)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "sɡawpʰa",
+      "romanized": "sgaopha",
+      "bengali_script": "স্গাওফা",
+      "example_sentence": "bo sgaopha ri-ba.",
+      "example_translation": "He tied the turban.",
+      "morphological_root": "pha",
+      "derived_forms": [],
+      "synonyms": [
+        "phagri"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "khram",
+      "english": "traditional Dimasa two-sided wooden drum",
+      "hindi": "ख्राम (पारंपरिक दिमासा ढोल/नगाड़ा)",
+      "bengali": "খ্রাম (দিমাসা বাদ্যযন্ত্র, ঐতিহ্যবাহী ঢোল)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰɾam",
+      "romanized": "khram",
+      "bengali_script": "খ্রাম",
+      "example_sentence": "khram dam-du.",
+      "example_translation": "They are beating the drum.",
+      "morphological_root": "khram",
+      "derived_forms": [
+        "khram dubung"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "muri",
+      "english": "traditional long wooden/bamboo trumpet or wind instrument",
+      "hindi": "मुरी (पारंपरिक दिमासा तुरही/बांसुरी)",
+      "bengali": "মুরি (দিমাসাদের ঐতিহ্যবাহী বাঁশি বা শিঙা)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "muɾi",
+      "romanized": "muri",
+      "bengali_script": "মুরি",
+      "example_sentence": "muri si-du.",
+      "example_translation": "He is blowing the Muri.",
+      "morphological_root": "muri",
+      "derived_forms": [
+        "muri wathisa",
+        "murithaih"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "khoro",
+      "english": "head, mind",
+      "hindi": "सिर, मस्तक",
+      "bengali": "মাথা, মস্তক",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰoɾo",
+      "romanized": "khoro",
+      "bengali_script": "খোরো",
+      "example_sentence": "ani khoro sa-du.",
+      "example_translation": "My head hurts.",
+      "morphological_root": "khoro",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dikhor",
+      "english": "eye",
+      "hindi": "आँख, नेत्र",
+      "bengali": "চোখ, চক্ষু",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dikʰoɾ",
+      "romanized": "dikhor",
+      "bengali_script": "দিখোর",
+      "example_sentence": "boni dikhor gsom-ba doŋ.",
+      "example_translation": "His eyes are dark.",
+      "morphological_root": "khor",
+      "derived_forms": [
+        "modon"
+      ],
+      "synonyms": [
+        "modon"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "khur",
+      "english": "hand, arm",
+      "hindi": "हाथ, बाहु",
+      "bengali": "হাত, বাহু",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰuɾ",
+      "romanized": "khur",
+      "bengali_script": "খুর",
+      "example_sentence": "khur su-bo.",
+      "example_translation": "Wash your hands.",
+      "morphological_root": "khur",
+      "derived_forms": [
+        "yau"
+      ],
+      "synonyms": [
+        "yau"
+      ],
+      "antonyms": [
+        "ya"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ya",
+      "english": "leg, foot",
+      "hindi": "पैर, पाँव",
+      "bengali": "পা, পদ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ja",
+      "romanized": "ya",
+      "bengali_script": "য়া",
+      "example_sentence": "boni ya sa-du.",
+      "example_translation": "His leg is aching.",
+      "morphological_root": "ya",
+      "derived_forms": [
+        "yaphang"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "khur"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "lama",
+      "english": "road, path, way",
+      "hindi": "रास्ता, मार्ग, सड़क",
+      "bengali": "রাস্তা, পথ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "lama",
+      "romanized": "lama",
+      "bengali_script": "লামা",
+      "example_sentence": "lama gjao-ba doŋ.",
+      "example_translation": "The path is long.",
+      "morphological_root": "lama",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "grao",
+      "english": "word, speech, language",
+      "hindi": "भाषा, बोली, शब्द",
+      "bengali": "ভাষা, কথা, শব্দ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɡɾaw",
+      "romanized": "grao",
+      "bengali_script": "গ্রাও",
+      "example_sentence": "ching grao dima rao-du.",
+      "example_translation": "We speak the Dimasa language.",
+      "morphological_root": "grao",
+      "derived_forms": [
+        "grao dima",
+        "graothao"
+      ],
+      "synonyms": [
+        "rao"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "daikho",
+      "english": "traditional sacred grove or territorial deity area of the Dimasa",
+      "hindi": "दाइखो (दिमासा का पवित्र उपवन या क्षेत्रीय देवी-देवता का स्थल)",
+      "bengali": "দাইখো (দিমাসাদের পবিত্র দেবস্থান বা তীর্থক্ষেত্র)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "daikʰo",
+      "romanized": "daikho",
+      "bengali_script": "দাইখো",
+      "example_sentence": "daikho-ha puja klai-du.",
+      "example_translation": "They perform rituals at the Daikho.",
+      "morphological_root": "daikho",
+      "derived_forms": [
+        "alu daikho",
+        "misim daikho"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "sengphong",
+      "english": "male patrilineal clan (40 clans exist in Dimasa society)",
+      "hindi": "सेंगफोंग (दिमासा समाज का 40 पितृवंश कुल)",
+      "bengali": "সেংফং (দিমাসা সমাজের ৪০টি পিতৃগোত্র)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "seŋpʰoŋ",
+      "romanized": "sengphong",
+      "bengali_script": "সেংফং",
+      "example_sentence": "ani sengphong langthasa doŋ.",
+      "example_translation": "My paternal clan is Langthasa.",
+      "morphological_root": "sengphong",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "julu"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "julu",
+      "english": "female matrilineal clan (42 clans exist in Dimasa society)",
+      "hindi": "जुलु/जादी (दिमासा समाज का 42 मातृवंश कुल)",
+      "bengali": "জুলু/জাদি (দিমাসা সমাজের ৪২টি মাতৃগোত্র)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dʒulu",
+      "romanized": "julu",
+      "bengali_script": "জুলু",
+      "example_sentence": "boni julu maireng doŋ.",
+      "example_translation": "Her maternal clan is Maireng.",
+      "morphological_root": "julu",
+      "derived_forms": [
+        "jadi",
+        "jilik"
+      ],
+      "synonyms": [
+        "jadi",
+        "jilik"
+      ],
+      "antonyms": [
+        "sengphong"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "khunang",
+      "english": "traditional village headman in Dimasa customary governance",
+      "hindi": "खुनांग (दिमासा पारंपरिक ग्राम प्रधान)",
+      "bengali": "খুনাং (দিমাসাদের সনাতন গ্রাম প্রধান)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰunaŋ",
+      "romanized": "khunang",
+      "bengali_script": "খুনাং",
+      "example_sentence": "khunang mel ling-ba.",
+      "example_translation": "The village headman called an assembly.",
+      "morphological_root": "khunang",
+      "derived_forms": [
+        "dilik"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "gundru",
+      "english": "traditional fermented tender bamboo shoots or dried vegetables",
+      "hindi": "गुन्द्रु (पारंपरिक किण्वित बांस का सूखा व्यंजन)",
+      "bengali": "গুন্দ্রু (গাঁজানো বাঁশের শুকনো সবজি)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɡundɾu",
+      "romanized": "gundru",
+      "bengali_script": "গুন্দ্রু",
+      "example_sentence": "gundru thau-ba doŋ.",
+      "example_translation": "Gundru is delicious.",
+      "morphological_root": "gundru",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "habar",
+      "english": "wind, breeze, air",
+      "hindi": "हवा, पवन, वायु",
+      "bengali": "বাতাস, হাওয়া, বায়ু",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "habaɾ",
+      "romanized": "habar",
+      "bengali_script": "হাবার",
+      "example_sentence": "habar bar-du.",
+      "example_translation": "The wind is blowing.",
+      "morphological_root": "bar",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "nokhli",
+      "english": "courtyard of the house",
+      "hindi": "आँगन",
+      "bengali": "উঠান, আঙিনা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "nokʰli",
+      "romanized": "nokhli",
+      "bengali_script": "নখলি",
+      "example_sentence": "bosi nokhli-ha mosho-du.",
+      "example_translation": "They are dancing in the courtyard.",
+      "morphological_root": "noh",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mosho",
+      "english": "to dance",
+      "hindi": "नाचना, नृत्य करना",
+      "bengali": "নাচ করা, নৃত্য করা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "moʃo",
+      "romanized": "mosho",
+      "bengali_script": "মশো",
+      "example_sentence": "hinjaosa-rao mosho-du.",
+      "example_translation": "The girls are dancing.",
+      "morphological_root": "mosho",
+      "derived_forms": [
+        "mosho-ba",
+        "mosho-ma",
+        "mosho-bo",
+        "baidima"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "rjab",
+      "english": "to sing",
+      "hindi": "गाना, गान करना",
+      "bengali": "গান গাওয়া",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "ɾdʒab",
+      "romanized": "rjab",
+      "bengali_script": "রজাব",
+      "example_sentence": "bo rjab-du.",
+      "example_translation": "She is singing.",
+      "morphological_root": "rjab",
+      "derived_forms": [
+        "rjab-ba",
+        "rjab-ma",
+        "rjabkharmin"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "baidima",
+      "english": "traditional Dimasa dance performed during Bushu and ceremonies",
+      "hindi": "बैदिमा (दिमासा पारंपरिक नृत्य)",
+      "bengali": "বাইদিমা (দিমাসাদের ঐতিহ্যবাহী নৃত্য)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "baidima",
+      "romanized": "baidima",
+      "bengali_script": "বাইদিমা",
+      "example_sentence": "bushu-ha baidima mosho-du.",
+      "example_translation": "They dance Baidima during Bushu.",
+      "morphological_root": "mosho",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "masi",
+      "english": "one (numeral 1 with default classifier)",
+      "hindi": "एक",
+      "bengali": "এক",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "masi",
+      "romanized": "masi",
+      "bengali_script": "মাসি",
+      "example_sentence": "sisa ma-si doŋ.",
+      "example_translation": "There is one dog.",
+      "morphological_root": "si",
+      "derived_forms": [
+        "sao-si",
+        "phang-si",
+        "gon-si",
+        "thai-si"
+      ],
+      "synonyms": [
+        "isi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "magin",
+      "english": "two (numeral 2 with default classifier)",
+      "hindi": "दो",
+      "bengali": "দুই",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "maɡin",
+      "romanized": "magin",
+      "bengali_script": "মাগিন",
+      "example_sentence": "daosa ma-gin doŋ.",
+      "example_translation": "There are two chicks.",
+      "morphological_root": "gin",
+      "derived_forms": [
+        "sao-gin",
+        "phang-gin",
+        "gni"
+      ],
+      "synonyms": [
+        "magni",
+        "gni"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "matham",
+      "english": "three (numeral 3 with default classifier)",
+      "hindi": "तीन",
+      "bengali": "তিন",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "matʰam",
+      "romanized": "matham",
+      "bengali_script": "মাথাম",
+      "example_sentence": "subun sao-tham doŋ.",
+      "example_translation": "There are three people.",
+      "morphological_root": "tham",
+      "derived_forms": [
+        "magtham",
+        "sao-tham"
+      ],
+      "synonyms": [
+        "magtham",
+        "gatham"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mabri",
+      "english": "four (numeral 4 with default classifier)",
+      "hindi": "चार",
+      "bengali": "চার",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "mabɾi",
+      "romanized": "mabri",
+      "bengali_script": "মাব্রি",
+      "example_sentence": "bongphang phang-bri doŋ.",
+      "example_translation": "There are four trees.",
+      "morphological_root": "bri",
+      "derived_forms": [
+        "bdiri",
+        "sao-bri"
+      ],
+      "synonyms": [
+        "bdiri"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mabowa",
+      "english": "five (numeral 5 with default classifier)",
+      "hindi": "पाँच",
+      "bengali": "পাঁচ",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "mabowa",
+      "romanized": "mabowa",
+      "bengali_script": "মাবোয়া",
+      "example_sentence": "subun sao-bowa phai-ba.",
+      "example_translation": "Five people came.",
+      "morphological_root": "bowa",
+      "derived_forms": [
+        "banga",
+        "sao-bowa"
+      ],
+      "synonyms": [
+        "banga"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "madoh",
+      "english": "six (numeral 6 with default classifier)",
+      "hindi": "छह",
+      "bengali": "ছয়",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "madoh",
+      "romanized": "madoh",
+      "bengali_script": "মাদহ",
+      "example_sentence": "daodi ma-doh doŋ.",
+      "example_translation": "There are six eggs.",
+      "morphological_root": "doh",
+      "derived_forms": [
+        "doh"
+      ],
+      "synonyms": [
+        "doh"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "masini",
+      "english": "seven (numeral 7 with default classifier)",
+      "hindi": "सात",
+      "bengali": "সাত",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "masini",
+      "romanized": "masini",
+      "bengali_script": "মাসিনি",
+      "example_sentence": "san masini doŋ.",
+      "example_translation": "There are seven days.",
+      "morphological_root": "sini",
+      "derived_forms": [
+        "sini"
+      ],
+      "synonyms": [
+        "sini"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "majai",
+      "english": "eight (numeral 8 with default classifier)",
+      "hindi": "आठ",
+      "bengali": "আট",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "madʒai",
+      "romanized": "majai",
+      "bengali_script": "মাজাই",
+      "example_sentence": "subun sao-jai doŋ.",
+      "example_translation": "There are eight people.",
+      "morphological_root": "jai",
+      "derived_forms": [
+        "jaji"
+      ],
+      "synonyms": [
+        "jaji"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "masukhu",
+      "english": "nine (numeral 9 with default classifier)",
+      "hindi": "नौ",
+      "bengali": "নয়",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "masukʰu",
+      "romanized": "masukhu",
+      "bengali_script": "মাসুখু",
+      "example_sentence": "sisa masukhu doŋ.",
+      "example_translation": "There are nine dogs.",
+      "morphological_root": "sukhu",
+      "derived_forms": [
+        "sikhi"
+      ],
+      "synonyms": [
+        "masikhi"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "maji",
+      "english": "ten (numeral 10 with default classifier)",
+      "hindi": "दस",
+      "bengali": "দশ",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "madʒi",
+      "romanized": "maji",
+      "bengali_script": "মাজি",
+      "example_sentence": "subun sao-ji doŋ.",
+      "example_translation": "There are ten people.",
+      "morphological_root": "ji",
+      "derived_forms": [
+        "majise",
+        "ji-gni",
+        "mathimji"
+      ],
+      "synonyms": [
+        "ji"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "majise",
+      "english": "eleven (numeral 11)",
+      "hindi": "ग्यारह",
+      "bengali": "এগারো",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "madʒise",
+      "romanized": "majise",
+      "bengali_script": "মাজিসে",
+      "example_sentence": "subun majise phai-ba.",
+      "example_translation": "Eleven people came.",
+      "morphological_root": "ji",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "bisasi",
+      "english": "twenty (numeral 20)",
+      "hindi": "बीस",
+      "bengali": "কুড়ি, বিশ",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "bisasi",
+      "romanized": "bisasi",
+      "bengali_script": "বিসাসি",
+      "example_sentence": "bo bisasi mairang la-ba.",
+      "example_translation": "He took twenty bags of rice.",
+      "morphological_root": "bisa",
+      "derived_forms": [
+        "makhon"
+      ],
+      "synonyms": [
+        "makhon"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mathimji",
+      "english": "thirty (numeral 30)",
+      "hindi": "तीस",
+      "bengali": "ত্রিশ",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "matʰimdʒi",
+      "romanized": "mathimji",
+      "bengali_script": "মাথিমজি",
+      "example_sentence": "san mathimji dain-ha doŋ.",
+      "example_translation": "There are thirty days in a month.",
+      "morphological_root": "tham",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "rausi",
+      "english": "one hundred (numeral 100)",
+      "hindi": "एक सौ",
+      "bengali": "এক শত, একশ",
+      "part_of_speech": "numeral",
+      "phonetic_ipa": "ɾawsi",
+      "romanized": "rausi",
+      "bengali_script": "রাওসি",
+      "example_sentence": "rausi subun mel-ha phai-ba.",
+      "example_translation": "A hundred people came to the assembly.",
+      "morphological_root": "rau",
+      "derived_forms": [
+        "sa-si"
+      ],
+      "synonyms": [
+        "sa-si"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "sao",
+      "english": "numeral classifier for human beings; body",
+      "hindi": "मनुष्य हेतु संख्यावाचक वर्गीकारक; शरीर",
+      "bengali": "মানুষের জন্য সংখ্যাবাচক নির্দেশক; শরীর",
+      "part_of_speech": "classifier",
+      "phonetic_ipa": "saw",
+      "romanized": "sao",
+      "bengali_script": "সাও",
+      "example_sentence": "subun sao-si phai-du.",
+      "example_translation": "One person is coming.",
+      "morphological_root": "sao",
+      "derived_forms": [
+        "sao-si",
+        "sao-gin",
+        "sao-tham"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gong",
+      "english": "numeral classifier for long, rigid, cylindrical objects (pens, sticks, horns)",
+      "hindi": "लंबी, कठोर या बेलनाकार वस्तुओं का संख्यावाचक वर्गीकारक",
+      "bengali": "লম্বা ও দণ্ডাকার বস্তুর সংখ্যাবাচক নির্দেশক",
+      "part_of_speech": "classifier",
+      "phonetic_ipa": "ɡoŋ",
+      "romanized": "gong",
+      "bengali_script": "গং",
+      "example_sentence": "repgon gon-si ane ri-bo.",
+      "example_translation": "Give me one pen.",
+      "morphological_root": "gong",
+      "derived_forms": [
+        "gon-si",
+        "gon-gin"
+      ],
+      "synonyms": [
+        "gon"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "phang",
+      "english": "numeral classifier for trees, plants, stalks",
+      "hindi": "पेड़-पौधों के लिए संख्यावाचक वर्गीकारक",
+      "bengali": "গাছপালার জন্য সংখ্যাবাচক নির্দেশক",
+      "part_of_speech": "classifier",
+      "phonetic_ipa": "pʰaŋ",
+      "romanized": "phang",
+      "bengali_script": "ফাং",
+      "example_sentence": "bongphang phang-si glai-ba.",
+      "example_translation": "One tree fell.",
+      "morphological_root": "phang",
+      "derived_forms": [
+        "phang-si",
+        "phang-gin"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "khang",
+      "english": "numeral classifier for flat, sheet-like things (leaves, paper, mats)",
+      "hindi": "सपाट व पतली वस्तुओं (पत्ता, कागज़) का वर्गीकारक",
+      "bengali": "পাতলা বা চ্যাপ্টা বস্তুর (কাগজ, পাতা) সংখ্যাবাচক নির্দেশক",
+      "part_of_speech": "classifier",
+      "phonetic_ipa": "kʰaŋ",
+      "romanized": "khang",
+      "bengali_script": "খাং",
+      "example_sentence": "lekhabil khang-si la-bo.",
+      "example_translation": "Bring one sheet of paper.",
+      "morphological_root": "khang",
+      "derived_forms": [
+        "khang-si"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "thai",
+      "english": "numeral classifier for round, globular fruits and objects",
+      "hindi": "गोल फलों और वस्तुओं का संख्यावाचक वर्गीकारक",
+      "bengali": "গোলাকার ফল বা বস্তুর সংখ্যাবাচক নির্দেশক",
+      "part_of_speech": "classifier",
+      "phonetic_ipa": "tʰai",
+      "romanized": "thai",
+      "bengali_script": "থাই",
+      "example_sentence": "thaigir thai-si ane ri-bo.",
+      "example_translation": "Give me one fruit.",
+      "morphological_root": "thai",
+      "derived_forms": [
+        "thai-si",
+        "thai-gin"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "khoro-clf",
+      "english": "numeral classifier for cattle and large animals (head count)",
+      "hindi": "मवेशियों के लिए संख्यावाचक वर्गीकारक",
+      "bengali": "গবাদি পশুর সংখ্যাবাচক নির্দেশক",
+      "part_of_speech": "classifier",
+      "phonetic_ipa": "kʰoɾo",
+      "romanized": "khoro",
+      "bengali_script": "খোরো",
+      "example_sentence": "mshou khoro-si doŋ.",
+      "example_translation": "There is one head of cattle.",
+      "morphological_root": "khoro",
+      "derived_forms": [
+        "khoro-si"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "lagao",
+      "english": "friend, companion",
+      "hindi": "मित्र, दोस्त, सखा",
+      "bengali": "বন্ধু, সাথী",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "laɡaw",
+      "romanized": "lagao",
+      "bengali_script": "লাগাও",
+      "example_sentence": "bo ani lagao doŋ.",
+      "example_translation": "He is my friend.",
+      "morphological_root": "lagao",
+      "derived_forms": [
+        "lagao-rao"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "shatru"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "haba",
+      "english": "cultivated field, jhum cultivation, work",
+      "hindi": "खेत, झूम खेती, कार्य",
+      "bengali": "ক্ষেত, ঝুম চাষ, কাজ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "haba",
+      "romanized": "haba",
+      "bengali_script": "হাবা",
+      "example_sentence": "ching haba-ha thang-du.",
+      "example_translation": "We are going to the field.",
+      "morphological_root": "ha",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "daothu",
+      "english": "dove, pigeon",
+      "hindi": "कबूतर, फाख्ता",
+      "bengali": "ঘুঘু, কবুতর",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dawtʰu",
+      "romanized": "daothu",
+      "bengali_script": "দাওথু",
+      "example_sentence": "daothu ma-si bongphang-ha doŋ.",
+      "example_translation": "There is a dove in the tree.",
+      "morphological_root": "dao",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mshou",
+      "english": "cow, cattle, bull",
+      "hindi": "गाय, बैल, गोवंश",
+      "bengali": "গরু, গবাদি পশু",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "məʃow",
+      "romanized": "mshou",
+      "bengali_script": "মশৌ",
+      "example_sentence": "mshou ma-si haba-ha doŋ.",
+      "example_translation": "A cow is in the field.",
+      "morphological_root": "mshou",
+      "derived_forms": [
+        "musu",
+        "mushou"
+      ],
+      "synonyms": [
+        "musu"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "misi",
+      "english": "tiger",
+      "hindi": "बाघ",
+      "bengali": "বাঘ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "misi",
+      "romanized": "misi",
+      "bengali_script": "মিসি",
+      "example_sentence": "misi hasao-ha dong-du.",
+      "example_translation": "Tigers live in the hills.",
+      "morphological_root": "mi",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "mi",
+      "english": "deer, wild quadruped animal",
+      "hindi": "हिरण, वन्य पशु",
+      "bengali": "হরিণ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "mi",
+      "romanized": "mi",
+      "bengali_script": "মি",
+      "example_sentence": "mi haju-ha kat-du.",
+      "example_translation": "The deer is running on the hill.",
+      "morphological_root": "mi",
+      "derived_forms": [
+        "misi",
+        "misa"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "haju",
+      "english": "mountain, high peak",
+      "hindi": "पहाड़, पर्वत शिखर",
+      "bengali": "পাহাড়, পর্বত",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "hadʒu",
+      "romanized": "haju",
+      "bengali_script": "হাজু",
+      "example_sentence": "haju gjao-ba doŋ.",
+      "example_translation": "The mountain is high.",
+      "morphological_root": "ha",
+      "derived_forms": [],
+      "synonyms": [
+        "hasao"
+      ],
+      "antonyms": [
+        "hawar"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "solob",
+      "english": "to learn, study",
+      "hindi": "सीखना, पढ़ना",
+      "bengali": "শেখা, অধ্যয়ন করা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "solob",
+      "romanized": "solob",
+      "bengali_script": "সলব",
+      "example_sentence": "ang lekha solob-du.",
+      "example_translation": "I am studying the book.",
+      "morphological_root": "solob",
+      "derived_forms": [
+        "solob-ba",
+        "solob-ma",
+        "solob-bo"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "ran",
+      "english": "to dry, become dry",
+      "hindi": "सूखना",
+      "bengali": "শুকানো",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "ɾan",
+      "romanized": "ran",
+      "bengali_script": "রান",
+      "example_sentence": "ri ran-kadu.",
+      "example_translation": "The cloth has dried.",
+      "morphological_root": "ran",
+      "derived_forms": [
+        "grun"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "gji"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "grun",
+      "english": "dry, parched",
+      "hindi": "सूखा, शुष्क",
+      "bengali": "শুকনো",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡəɾun",
+      "romanized": "grun",
+      "bengali_script": "গ্রুন",
+      "example_sentence": "ha grun-ba doŋ.",
+      "example_translation": "The ground is dry.",
+      "morphological_root": "ran",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "gji"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "gji",
+      "english": "wet, moist",
+      "hindi": "गीला, नम",
+      "bengali": "ভেজা, আর্দ্র",
+      "part_of_speech": "adjective",
+      "phonetic_ipa": "ɡədʒi",
+      "romanized": "gji",
+      "bengali_script": "গজি",
+      "example_sentence": "ri gji-ba doŋ.",
+      "example_translation": "The cloth is wet.",
+      "morphological_root": "ji",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "grun"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "klai",
+      "english": "to do, make, perform, fall",
+      "hindi": "करना, बनाना, गिरना",
+      "bengali": "করা, তৈরি করা, পতিত হওয়া",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "klai",
+      "romanized": "klai",
+      "bengali_script": "কলাই",
+      "example_sentence": "bo haba klai-du.",
+      "example_translation": "He is doing work.",
+      "morphological_root": "klai",
+      "derived_forms": [
+        "klai-du",
+        "klai-ba",
+        "klai-ma",
+        "klai-bo",
+        "da-klai"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "kham-vb",
+      "english": "to burn, blaze",
+      "hindi": "जलना",
+      "bengali": "জ্বলা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "kʰam",
+      "romanized": "kham",
+      "bengali_script": "খাম",
+      "example_sentence": "wai kham-du.",
+      "example_translation": "The fire is burning.",
+      "morphological_root": "kham",
+      "derived_forms": [
+        "kham-ba",
+        "kham-ma"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "tai",
+      "english": "stone, rock",
+      "hindi": "पत्थर, शिला",
+      "bengali": "পাথর, শিলা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "tai",
+      "romanized": "tai",
+      "bengali_script": "তাই",
+      "example_sentence": "tai gidiba doŋ.",
+      "example_translation": "The stone is big.",
+      "morphological_root": "tai",
+      "derived_forms": [
+        "longtai"
+      ],
+      "synonyms": [
+        "longtai"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "longtai",
+      "english": "boulder, rock, large stone",
+      "hindi": "चट्टान, बड़ा पत्थर",
+      "bengali": "শিলাখণ্ড, বড় পাথর",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "loŋtai",
+      "romanized": "longtai",
+      "bengali_script": "লংতাই",
+      "example_sentence": "longtai disa-ha doŋ.",
+      "example_translation": "There is a boulder in the stream.",
+      "morphological_root": "tai",
+      "derived_forms": [],
+      "synonyms": [
+        "tai"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "khun",
+      "english": "cotton, yarn, thread",
+      "hindi": "कपास, सूत, धागा",
+      "bengali": "তুলা, সুতা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰun",
+      "romanized": "khun",
+      "bengali_script": "খুন",
+      "example_sentence": "bo khun da-du.",
+      "example_translation": "She is spinning yarn.",
+      "morphological_root": "khun",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "da",
+      "english": "to weave",
+      "hindi": "बुनना",
+      "bengali": "বোনা, বস্ত্র বয়ন করা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "da",
+      "romanized": "da",
+      "bengali_script": "দা",
+      "example_sentence": "ai rigu da-du.",
+      "example_translation": "Mother is weaving a Rigu.",
+      "morphological_root": "da",
+      "derived_forms": [
+        "da-ba",
+        "da-ma",
+        "daphang"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "daphang",
+      "english": "traditional handloom loom frame",
+      "hindi": "करघा, हथकरघा ढांचा",
+      "bengali": "তাঁত, হস্তচালিত তাঁত",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dapʰaŋ",
+      "romanized": "daphang",
+      "bengali_script": "দাফাং",
+      "example_sentence": "daphang-ha ri da-du.",
+      "example_translation": "They weave cloth on the handloom.",
+      "morphological_root": "da",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "seng",
+      "english": "sword, blade",
+      "hindi": "तलवार, खड्ग",
+      "bengali": "তলোয়ার, খড়্গ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "seŋ",
+      "romanized": "seng",
+      "bengali_script": "সেং",
+      "example_sentence": "seng gon-si doŋ.",
+      "example_translation": "There is a sword.",
+      "morphological_root": "seng",
+      "derived_forms": [
+        "sengphong"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "dilib",
+      "english": "flood, deluge, high water inundation",
+      "hindi": "बाढ़, जलप्लावन",
+      "bengali": "বন্যা, প্লাবন",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "dilib",
+      "romanized": "dilib",
+      "bengali_script": "দিলিব",
+      "example_sentence": "dilib phai-ba.",
+      "example_translation": "The flood came.",
+      "morphological_root": "di",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "khuneb",
+      "english": "cloud, fog, mist",
+      "hindi": "बादल, मेघ, कोहरा",
+      "bengali": "মেঘ, কুয়াশা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰuneb",
+      "romanized": "khuneb",
+      "bengali_script": "খুনেব",
+      "example_sentence": "khuneb nohkhor-ha doŋ.",
+      "example_translation": "Clouds are in the sky.",
+      "morphological_root": "khuneb",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "nodikhor",
+      "english": "sky, firmament, heavens",
+      "hindi": "आकाश, गगन",
+      "bengali": "আকাশ, গগন",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "nodikʰoɾ",
+      "romanized": "nodikhor",
+      "bengali_script": "নদিখোর",
+      "example_sentence": "nodikhor-ha dain bar-du.",
+      "example_translation": "The moon shines in the sky.",
+      "morphological_root": "khor",
+      "derived_forms": [],
+      "synonyms": [
+        "nohkhor"
+      ],
+      "antonyms": [
+        "ha"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "sengbra",
+      "english": "youth, young unmarried man, bachelor",
+      "hindi": "युवक, अविवाहित पुरुष",
+      "bengali": "যুবক, অবিবাহিত তরুণ",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "seŋbɾa",
+      "romanized": "sengbra",
+      "bengali_script": "সেংব্রা",
+      "example_sentence": "sengbra-rao hangseu-ha doŋ.",
+      "example_translation": "The young men are in the youth dormitory.",
+      "morphological_root": "sengbra",
+      "derived_forms": [
+        "hangseu"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "sikla"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "sikla",
+      "english": "young unmarried woman, maiden",
+      "hindi": "युवती, कुंवारी कन्या",
+      "bengali": "যুবতী, অবিবাহিতা তরুণী",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "sikla",
+      "romanized": "sikla",
+      "bengali_script": "সিকলা",
+      "example_sentence": "sikla-rao mosho-du.",
+      "example_translation": "The maidens are dancing.",
+      "morphological_root": "sikla",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [
+        "sengbra"
+      ],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "hangseu",
+      "english": "traditional Dimasa village youth organization or dormitory",
+      "hindi": "हांगसेउ (पारंपरिक युवा संगठन/शाला)",
+      "bengali": "হাংসেরু (ঐতিহ্যবাহী যুব সংঘ)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "haŋsew",
+      "romanized": "hangseu",
+      "bengali_script": "হাংসেরু",
+      "example_sentence": "hangseu bushu kshiba-ha klai-du.",
+      "example_translation": "They celebrate Hangseu Bushu grandly.",
+      "morphological_root": "hangseu",
+      "derived_forms": [
+        "hangseu bushu"
+      ],
+      "synonyms": [
+        "nodrang"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "sibarai",
+      "english": "Supreme Creator deity and ancestor in traditional Dimasa religion",
+      "hindi": "सिबराई (पारंपरिक दिमासा धर्म में परमेश्वर/पूर्वज देव)",
+      "bengali": "সিবরাই (দিমাসা ধর্মে পরমেশ্বর ও পূর্বপুরুষ দেবতা)",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "sibaɾai",
+      "romanized": "sibarai",
+      "bengali_script": "সিবরাই",
+      "example_sentence": "sibarai-khe khulum-bo.",
+      "example_translation": "Worship Sibarai.",
+      "morphological_root": "sibarai",
+      "derived_forms": [
+        "bra-shibrai"
+      ],
+      "synonyms": [
+        "bra-shibrai"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "khulum",
+      "english": "to bow down, worship, pay homage",
+      "hindi": "प्रणाम करना, पूजा करना, वंदना करना",
+      "bengali": "প্রণাম করা, উপাসনা করা",
+      "part_of_speech": "verb",
+      "phonetic_ipa": "kʰulum",
+      "romanized": "khulum",
+      "bengali_script": "খুলুম",
+      "example_sentence": "bosi daikho-ha khulum-du.",
+      "example_translation": "They are bowing down at the sacred grove.",
+      "morphological_root": "khulum",
+      "derived_forms": [
+        "khulum-ba",
+        "khulum-bo"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "khunthang",
+      "english": "cotton flower, cotton pod",
+      "hindi": "कपास का फूल",
+      "bengali": "তুলার ফুল",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "kʰuntʰaŋ",
+      "romanized": "khunthang",
+      "bengali_script": "খুনথাং",
+      "example_sentence": "khunthang bar-du.",
+      "example_translation": "The cotton pod is opening.",
+      "morphological_root": "khun",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "repgon",
+      "english": "pen, writing instrument",
+      "hindi": "कलम, लेखनी",
+      "bengali": "কলম, লেখনী",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "ɾepɡon",
+      "romanized": "repgon",
+      "bengali_script": "রেপগন",
+      "example_sentence": "repgon gon-si ane ri-bo.",
+      "example_translation": "Give me a pen.",
+      "morphological_root": "repgon",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "lekhabil",
+      "english": "sheet of paper, book page",
+      "hindi": "कागज़, पन्ना",
+      "bengali": "কাগজ, বইয়ের পাতা",
+      "part_of_speech": "noun",
+      "phonetic_ipa": "lekʰabil",
+      "romanized": "lekhabil",
+      "bengali_script": "লেখা-বিল",
+      "example_sentence": "lekhabil khang-si la-bo.",
+      "example_translation": "Bring a sheet of paper.",
+      "morphological_root": "bil",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "headword": "khurthao",
+      "english": "greeting, hello, respectful greeting",
+      "hindi": "नमस्ते, नमस्कार, प्रणाम",
+      "bengali": "নমস্কার, শুভেচ্ছা",
+      "part_of_speech": "interjection",
+      "phonetic_ipa": "kʰuɾtʰaw",
+      "romanized": "khurthao",
+      "bengali_script": "খুরথাও",
+      "example_sentence": "khurthao! ning hamba doŋ-na?",
+      "example_translation": "Greetings! Are you well?",
+      "morphological_root": "khur",
+      "derived_forms": [],
+      "synonyms": [
+        "hambai"
+      ],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DSS-2018",
+      "verification_status": "community_verified"
+    },
+    {
+      "headword": "hambai",
+      "english": "thank you, thanks, well done",
+      "hindi": "धन्यवाद, शुक्रिया",
+      "bengali": "ধন্যবাদ",
+      "part_of_speech": "interjection",
+      "phonetic_ipa": "hambai",
+      "romanized": "hambai",
+      "bengali_script": "হামবাই",
+      "example_sentence": "hambai, lagao!",
+      "example_translation": "Thank you, friend!",
+      "morphological_root": "ham",
+      "derived_forms": [],
+      "synonyms": [],
+      "antonyms": [],
+      "dialect": "general",
+      "source_id": "SRC-DSS-2018",
+      "verification_status": "community_verified"
+    }
+  ]
+}

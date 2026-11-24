@@ -1,0 +1,137 @@
+{
+  "sources": [
+    {
+      "id": "SRC-EVANS-2024",
+      "title": "Dimasa Language: Structure and Texts",
+      "authors": ["Jonathan P. Evans", "Dhrubajit Langthasa"],
+      "year": 2024,
+      "publisher": "Institute of Linguistics, Academia Sinica",
+      "place": "Taipei, Taiwan",
+      "series": "Language and Linguistics Monograph Series",
+      "url": "https://www.ling.sinica.edu.tw",
+      "linguistic_info": "Definitive contemporary grammar of the Haflong dialect of Dimasa; covers phoneme inventory (17 consonants, 5 vowels), morphosyntax, 8 case markers, verbal suffix slots, tense-aspect neutralization under negation, and discourse texts.",
+      "reliability": "primary_academic"
+    },
+    {
+      "id": "SRC-DUNDAS-1908",
+      "title": "An Outline Grammar and Dictionary of the Kachari (Dimasa) Language",
+      "authors": ["W. C. M. Dundas", "Mani Charan Barman"],
+      "year": 1908,
+      "publisher": "Eastern Bengal and Assam Secretariat Press",
+      "place": "Shillong, India",
+      "series": "Official Colonial Linguistic Monograph",
+      "url": "https://catalog.hathitrust.org/Record/008892415",
+      "linguistic_info": "Early structural description, grammatical paradigms, comprehensive English-Dimasa and Dimasa-English vocabulary, numerals, and conversational phrases.",
+      "reliability": "historical_attested"
+    },
+    {
+      "id": "SRC-SINGHA-2010",
+      "title": "Dimasa Word Book: A Classified Vocabulary",
+      "authors": ["Kh. Dhiren Singha"],
+      "year": 2010,
+      "publisher": "DVS Publishers",
+      "place": "Guwahati, Assam",
+      "series": "Linguistic Survey Series",
+      "url": "https://bododimasaarchive.org",
+      "linguistic_info": "Comprehensive classified semantic lexicon of Dimasa words spanning flora, fauna, tools, kinship, food, anatomy, actions, and numerals.",
+      "reliability": "primary_academic"
+    },
+    {
+      "id": "SRC-LONGMAILAI-2014",
+      "title": "A Descriptive Analysis of Dimasa",
+      "authors": ["Monali Longmailai"],
+      "year": 2014,
+      "publisher": "Gauhati University",
+      "place": "Guwahati, Assam",
+      "series": "Ph.D. Dissertation",
+      "url": "https://bododimasaarchive.org",
+      "linguistic_info": "Detailed descriptive phonology and morphology of Dimasa; confirms 17 consonant inventory and analyses nominal compounding and verbal affixation.",
+      "reliability": "primary_academic"
+    },
+    {
+      "id": "SRC-GRIERSON-1903",
+      "title": "Linguistic Survey of India, Vol. III: Tibeto-Burman Family, Part II (Bodo, Naga, and Kachin Groups)",
+      "authors": ["Sir George Abraham Grierson"],
+      "year": 1903,
+      "publisher": "Office of the Superintendent of Government Printing",
+      "place": "Calcutta, India",
+      "series": "Linguistic Survey of India",
+      "url": "https://archive.org/details/linguisticsurvey0302grie",
+      "linguistic_info": "Classification of Dimasa under the Bodo group, comparative vocabulary, grammatical outline, and translated specimen texts.",
+      "reliability": "historical_attested"
+    },
+    {
+      "id": "SRC-BURLING-2003",
+      "title": "The Tibeto-Burman Languages of Northeastern India",
+      "authors": ["Robbins Burling"],
+      "year": 2003,
+      "publisher": "Routledge",
+      "place": "London and New York",
+      "series": "The Sino-Tibetan Languages (Graham Thurgood & Randy J. LaPolla, eds.)",
+      "url": "https://www.routledge.com",
+      "linguistic_info": "Comparative analysis of the Bodo-Garo (Sal) subfamily, phonological developments, and morphological characteristics of Dimasa.",
+      "reliability": "secondary_academic"
+    },
+    {
+      "id": "SRC-THAOSEN-1964",
+      "title": "Dimasa Kachari: History, Society and Clans",
+      "authors": ["Sonaram Thaosen"],
+      "year": 1964,
+      "publisher": "Dimasa Sahitya Sabha / Private Publication",
+      "place": "Haflong, Assam",
+      "series": "Cultural Documentation",
+      "url": "https://bododimasaarchive.org",
+      "linguistic_info": "Historical records of the 40 Sengphong (male clans) and 42 Julu (female clans), traditional village governance, and customary laws.",
+      "reliability": "community_authoritative"
+    },
+    {
+      "id": "SRC-BARUA-1980",
+      "title": "Dimasha Society and Their Folk Songs",
+      "authors": ["Nagena Barua"],
+      "year": 1980,
+      "publisher": "Tribal Research Institute of Assam",
+      "place": "Guwahati, Assam",
+      "series": "Ethnographic and Folkloric Series",
+      "url": "https://archive.org",
+      "linguistic_info": "Detailed documentation of Dimasa folk songs (Murithaih, Rjabkharmin), musical instruments (Khram, Muri), and wedding and funeral traditions.",
+      "reliability": "primary_ethnographic"
+    },
+    {
+      "id": "SRC-VKIC-2005",
+      "title": "The Traditional Systems of the Dimasa",
+      "authors": ["Vivekananda Kendra Institute of Culture"],
+      "year": 2005,
+      "publisher": "VKIC Publications",
+      "place": "Guwahati, Assam",
+      "series": "Traditional Systems of Northeast India",
+      "url": "https://www.vkic.org",
+      "linguistic_info": "Detailed documentation of Bushu Dima celebrations, Daikho deity system, priestly offices (Zonthra, Hojai), and traditional attire (Rigu, Rikhaosa).",
+      "reliability": "community_authoritative"
+    },
+    {
+      "id": "SRC-DSS-2018",
+      "title": "Dimasa Grao Thairili & Orthographic Guidelines",
+      "authors": ["Dimasa Sahitya Sabha (Dimasa Lairidim Mel)"],
+      "year": 2018,
+      "publisher": "Dimasa Sahitya Sabha Central Committee",
+      "place": "Haflong, Dima Hasao, Assam",
+      "series": "Orthographic and Lexical Guidelines",
+      "url": "https://bododimasaarchive.org",
+      "linguistic_info": "Standard Roman orthography, phoneme-grapheme correspondences, and standardized spellings approved for school education and literature.",
+      "reliability": "standardizing_body"
+    },
+    {
+      "id": "SRC-BODODIMASA-ARCHIVE",
+      "title": "Bodo and Dimasa Heritage Digital Archive",
+      "authors": ["Tezpur University Centre for Endangered Languages", "Dimasa Sahitya Sabha"],
+      "year": 2021,
+      "publisher": "Tezpur University",
+      "place": "Tezpur, Assam",
+      "series": "Digital Endangered Languages Archive",
+      "url": "https://bododimasaarchive.org",
+      "linguistic_info": "Open digital corpora of Dimasa audio recordings, glossed folktales, proverbs, children's games, and oral history.",
+      "reliability": "primary_archive"
+    }
+  ]
+}
+

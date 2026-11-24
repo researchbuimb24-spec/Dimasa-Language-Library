@@ -1,0 +1,162 @@
+{
+  "cardinal_roots": {
+    "1": "si",
+    "2": "gin",
+    "3": "tham",
+    "4": "bri",
+    "5": "bowa",
+    "6": "doh",
+    "7": "sini",
+    "8": "jai",
+    "9": "sukhu",
+    "10": "ji"
+  },
+  "citation_forms": {
+    "1": "masi",
+    "2": "magin",
+    "3": "matham",
+    "4": "mabri",
+    "5": "mabowa",
+    "6": "madoh",
+    "7": "masini",
+    "8": "majai",
+    "9": "masukhu",
+    "10": "maji",
+    "11": "majise",
+    "12": "majigin",
+    "13": "majitham",
+    "14": "majibri",
+    "15": "majibowa",
+    "16": "majidoh",
+    "17": "majisini",
+    "18": "majijai",
+    "19": "majisukhu",
+    "20": "bisasi",
+    "21": "bisasi masi",
+    "22": "bisasi magin",
+    "25": "bisasi mabowa",
+    "30": "mathimji",
+    "40": "mabriji",
+    "50": "mabowaji",
+    "60": "madohji",
+    "70": "masiniji",
+    "80": "majaiji",
+    "90": "masukhuji",
+    "100": "rausi"
+  },
+  "classifiers": [
+    {
+      "id": "sao",
+      "prefix": "sao",
+      "category": "human",
+      "description": "Used exclusively for counting human beings (men, women, children). Derived from lexical 'sao' (body).",
+      "example_noun": "subun",
+      "forms": {
+        "1": "sao-si",
+        "2": "sao-gin",
+        "3": "sao-tham",
+        "4": "sao-bri",
+        "5": "sao-bowa"
+      },
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "ma",
+      "prefix": "ma",
+      "category": "animate_generic",
+      "description": "Default classifier used for animals, birds, reptiles, fish, and general counting.",
+      "example_noun": "sisa",
+      "forms": {
+        "1": "ma-si",
+        "2": "ma-gin",
+        "3": "ma-tham",
+        "4": "ma-bri",
+        "5": "ma-bowa"
+      },
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "gong",
+      "prefix": "gong",
+      "category": "long_rigid",
+      "description": "Used for long, rigid, stick-like, or cylindrical objects such as pens, weapons, sticks, and horns.",
+      "example_noun": "repgon",
+      "forms": {
+        "1": "gon-si",
+        "2": "gon-gin",
+        "3": "gon-tham",
+        "4": "gon-bri",
+        "5": "gon-bowa"
+      },
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "phang",
+      "prefix": "phang",
+      "category": "botanical",
+      "description": "Used for trees, bushes, botanical stalks, and standing plants.",
+      "example_noun": "bongphang",
+      "forms": {
+        "1": "phang-si",
+        "2": "phang-gin",
+        "3": "phang-tham",
+        "4": "phang-bri",
+        "5": "phang-bowa"
+      },
+      "source_id": "SRC-EVANS-2024",
+      "verification_status": "documented"
+    },
+    {
+      "id": "khang",
+      "prefix": "khang",
+      "category": "flat_planar",
+      "description": "Used for thin, flat, sheet-like 2D objects such as paper, leaves, and woven mats.",
+      "example_noun": "lekhabil",
+      "forms": {
+        "1": "khang-si",
+        "2": "khang-gin",
+        "3": "khang-tham",
+        "4": "khang-bri",
+        "5": "khang-bowa"
+      },
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "id": "thai",
+      "prefix": "thai",
+      "category": "globular_fruit",
+      "description": "Used for round, globular fruits, berries, and spherical items.",
+      "example_noun": "thaigir",
+      "forms": {
+        "1": "thai-si",
+        "2": "thai-gin",
+        "3": "thai-tham",
+        "4": "thai-bri",
+        "5": "thai-bowa"
+      },
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    },
+    {
+      "id": "khoro",
+      "prefix": "khoro",
+      "category": "livestock",
+      "description": "Used for head count of cattle, cows, buffaloes, and large livestock.",
+      "example_noun": "mshou",
+      "forms": {
+        "1": "khoro-si",
+        "2": "khoro-gin",
+        "3": "khoro-tham",
+        "4": "khoro-bri",
+        "5": "khoro-bowa"
+      },
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented"
+    }
+  ]
+}
+

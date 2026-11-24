@@ -1,0 +1,356 @@
+{
+  "attire": [
+    {
+      "id": "rigu",
+      "name": "Rigu",
+      "dimasa_name": "Rigu",
+      "category": "female_attire",
+      "description": "The traditional Dimasa women's skirt or lower garment, exquisitely handwoven and wrapped snugly around the waist down to the ankles. Woven in bright vibrant patterns, usually with bands of yellow, green, and red.",
+      "weaving_technique": "Handwoven on traditional loin loom (Daphang) using cotton or endi silk yarns.",
+      "cultural_significance": "Essential everyday and ceremonial garment symbolizing Dimasa womanhood and artistic identity.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "rikhaosa",
+      "name": "Rikhaosa",
+      "dimasa_name": "Rikhaosa",
+      "category": "female_attire",
+      "description": "A traditional upper-body scarf, muffler, or shawl draped over the shoulders and chest by Dimasa women. Known for intricate border embroidery and fringe tassels.",
+      "weaving_technique": "Handwoven with specialized decorative motifs (Pakhambar) along the selvedge.",
+      "cultural_significance": "A symbol of dignity, modesty, and ceremonial elegance, presented also as an honor to respected guests.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "rigdo",
+      "name": "Rigdo",
+      "dimasa_name": "Rigdo",
+      "category": "female_attire",
+      "description": "A shorter traditional wrapper cloth, often worn as an inner skirt or during household work and agricultural tasks in the field.",
+      "weaving_technique": "Durable cotton plain weave on traditional looms.",
+      "cultural_significance": "Practical everyday attire facilitating agricultural movement while maintaining cultural decorum.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "bathormai",
+      "name": "Bathormai",
+      "dimasa_name": "Bathormai",
+      "category": "female_attire",
+      "description": "A distinctive women's garment tied securely above the breast and extending down below the knees, worn especially during dances and rituals.",
+      "weaving_technique": "Finely woven with specific geometric border bands.",
+      "cultural_significance": "Favored during traditional Baidima dance performances to allow rhythmic arm and foot movements.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "rimsao",
+      "name": "Rimsao",
+      "dimasa_name": "Rimsao",
+      "category": "male_attire",
+      "description": "Traditional Dimasa men's cotton or endi shawl worn over the shoulders, adorned with deep green, white, or maroon woven borders.",
+      "weaving_technique": "Woven on family handlooms by the women of the household.",
+      "cultural_significance": "Worn by male elders and youth during council meetings, Bushu festivals, and community celebrations.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "sgaopha",
+      "name": "Sgaopha",
+      "dimasa_name": "Sgaopha",
+      "category": "male_attire",
+      "description": "The traditional ceremonial turban worn by Dimasa men. Carefully folded and wound with symbolic knots reflecting social status and clan affiliations.",
+      "weaving_technique": "Fine white or yellow cotton fabric woven with thin red edge stripes.",
+      "cultural_significance": "Crown of male dignity worn by the Khunang (headman), Zonthra (priest), and groom during weddings.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    }
+  ],
+  "clans": {
+    "system_description": "Dimasa society features an extraordinary double-descent (bi-lineal) kinship structure. Every person belongs simultaneously to their father's patriclan (Sengphong) and their mother's matriclan (Julu or Jadi). Lineage and official surnames trace through the 40 Sengphong, while spiritual and maternal heritage traces through the 42 Julu. Both systems are strictly exogamous: marriage within either clan is strictly prohibited.",
+    "sengphong_total": 40,
+    "julu_total": 42,
+    "marriage_rule": "Strict double exogamy. An individual cannot marry someone who shares their father's Sengphong OR their mother's Julu.",
+    "sengphongs": [
+      {"id": "sp-01", "name": "Langthasa", "meaning": "Prominent patriclan, historical administrators and warriors", "gotra_association": "Shaktri"},
+      {"id": "sp-02", "name": "Thaosen", "meaning": "Distinguished clan of scholars, leaders, and reformers", "gotra_association": "Kashyap"},
+      {"id": "sp-03", "name": "Hagjer", "meaning": "Aristocratic clan historically associated with nobility and councilors", "gotra_association": "Kotyayan"},
+      {"id": "sp-04", "name": "Hojai", "meaning": "Ancient clan traditionally providing priestly and administrative officers; town of Hojai named after it", "gotra_association": "Savarna"},
+      {"id": "sp-05", "name": "Bathari", "meaning": "Prominent clan lineage associated with royal guardianship", "gotra_association": "Sandilya"},
+      {"id": "sp-06", "name": "Daolagupu", "meaning": "Descendants of the White Fowl clan lineage", "gotra_association": "Bharadwaj"},
+      {"id": "sp-07", "name": "Haflongbar", "meaning": "Clan historically established around the Haflong hill territory", "gotra_association": "Vashistha"},
+      {"id": "sp-08", "name": "Kemprai", "meaning": "Historical clan lineage known for strategic hill fortifications", "gotra_association": "Alambayana"},
+      {"id": "sp-09", "name": "Phonglo", "meaning": "Ancient patriclan lineage", "gotra_association": "Parashara"},
+      {"id": "sp-10", "name": "Rajiyung", "meaning": "Clan lineage with historical royal service links", "gotra_association": "Gautama"},
+      {"id": "sp-11", "name": "Sengyung", "meaning": "Clan associated with the great sword (Seng) tradition", "gotra_association": "Kausika"},
+      {"id": "sp-12", "name": "Naiding", "meaning": "Respected patriclan lineage in Dima Hasao and Cachar", "gotra_association": "Agastya"},
+      {"id": "sp-13", "name": "Hafila", "meaning": "Patriclan associated with eastern valley settlements", "gotra_association": "Upamanyu"},
+      {"id": "sp-14", "name": "Hasnu", "meaning": "Lineage associated with fertile agricultural lands", "gotra_association": "Mudgala"},
+      {"id": "sp-15", "name": "Dibragede", "meaning": "Clan tracing ancestral presence along the great Dibru river", "gotra_association": "Harita"},
+      {"id": "sp-16", "name": "Gorlosa", "meaning": "Patriclan with historical roots in central Dima Hasao", "gotra_association": "Garga"},
+      {"id": "sp-17", "name": "Kharigapsa", "meaning": "Clan lineage of traditional craftsmen and smiths", "gotra_association": "Viswamitra"},
+      {"id": "sp-18", "name": "Johori", "meaning": "Lineage associated with royal treasury and jewel preservation", "gotra_association": "Vatsa"},
+      {"id": "sp-19", "name": "Diruwasa", "meaning": "Ancient clan with deep oral history traditions", "gotra_association": "Atri"},
+      {"id": "sp-20", "name": "Bodosa", "meaning": "Clan representing ancestral links with broader Bodo relations", "gotra_association": "Angirasa"},
+      {"id": "sp-21", "name": "Baindosa", "meaning": "Also historically referenced as Nunisa", "gotra_association": "Pulastya"},
+      {"id": "sp-22", "name": "Ardaosa", "meaning": "Traditional hill settlement patriclan", "gotra_association": "Pulaha"},
+      {"id": "sp-23", "name": "Daodunglangtha", "meaning": "Clan named after the soaring bird emblem", "gotra_association": "Kratu"},
+      {"id": "sp-24", "name": "Daolagajao", "meaning": "Descendants of the Red Fowl lineage", "gotra_association": "Marichi"},
+      {"id": "sp-25", "name": "Diphusa", "meaning": "Clan originating around the Diphu river valley", "gotra_association": "Daksa"},
+      {"id": "sp-26", "name": "Girisa", "meaning": "High hill dweller clan lineage", "gotra_association": "Bhrigu"},
+      {"id": "sp-27", "name": "Haidesa", "meaning": "Clan associated with the upper catchment territory", "gotra_association": "Chyavana"},
+      {"id": "sp-28", "name": "Haidangsa", "meaning": "Ancient northern settlement lineage", "gotra_association": "Katyayana"},
+      {"id": "sp-29", "name": "Hakmaosa", "meaning": "Clan lineage known for clearing dense forest lands", "gotra_association": "Lomasa"},
+      {"id": "sp-30", "name": "Hasamsa", "meaning": "Also recorded as Hassamsa or Hassamphura", "gotra_association": "Valmiki"},
+      {"id": "sp-31", "name": "Jarambusa", "meaning": "Lineage from the high ridge communities", "gotra_association": "Galava"},
+      {"id": "sp-32", "name": "Jidungsa", "meaning": "Clan tracing roots along clear mountain springs", "gotra_association": "Jaimini"},
+      {"id": "sp-33", "name": "Joraisa", "meaning": "Clan with twin branch ancestral narratives", "gotra_association": "Kanva"},
+      {"id": "sp-34", "name": "Karigapsa", "meaning": "Allied branch of craftsmanship and metal lore", "gotra_association": "Kapila"},
+      {"id": "sp-35", "name": "Khersa", "meaning": "Ancestral agricultural lineage", "gotra_association": "Markandeya"},
+      {"id": "sp-36", "name": "Lapthaisa", "meaning": "Clan known for heraldic traditions", "gotra_association": "Narada"},
+      {"id": "sp-37", "name": "Laobangdisa", "meaning": "Lineage situated along the broad bend of the river", "gotra_association": "Suka"},
+      {"id": "sp-38", "name": "Mitherpangsa", "meaning": "Ancient clan associated with sweet fruit groves", "gotra_association": "Sanatkumara"},
+      {"id": "sp-39", "name": "Nabensa", "meaning": "Respected elder clan lineage", "gotra_association": "Vyasa"},
+      {"id": "sp-40", "name": "Baderbaiga", "meaning": "Royal military division and drum custodian lineage", "gotra_association": "Satyaki"}
+    ],
+    "julus": [
+      {"id": "jl-01", "name": "Maireng", "meaning": "Principal matriclan with extensive sister-lineages"},
+      {"id": "jl-02", "name": "Saidima", "meaning": "Matriclan tracing descent from the great river mother"},
+      {"id": "jl-03", "name": "Mairong", "meaning": "Matriclan associated with the golden grain harvest"},
+      {"id": "jl-04", "name": "Banglaima", "meaning": "Ancient matriclan lineage recorded across oral songs"},
+      {"id": "jl-05", "name": "Rajama", "meaning": "Royal mother clan associated with palace ceremonies"},
+      {"id": "jl-06", "name": "Miyongma", "meaning": "Revered matriclan of the central hill ridges"},
+      {"id": "jl-07", "name": "Diphuma", "meaning": "Matriclan associated with the holy Diphu river source"},
+      {"id": "jl-08", "name": "Gachima", "meaning": "Ancient forest dwelling matriclan lineage"},
+      {"id": "jl-09", "name": "Sagorma", "meaning": "Matriclan associated with the boundless water expanse"},
+      {"id": "jl-10", "name": "Kharigapma", "meaning": "Matriclan allied with ancestral metallurgical lore"}
+    ]
+  },
+  "cuisine": [
+    {
+      "id": "judima",
+      "name": "Judima",
+      "dimasa_name": "Judima",
+      "category": "beverage",
+      "description": "The celebrated traditional fermented rice wine of the Dimasa people, granted a Geographical Indication (GI) tag in 2021. Brewed from glutinous rice (Maiju) and natural yeast starter prepared using the crushed bark of the Thembra plant (Acacia pennata).",
+      "ingredients": ["Maiju (glutinous rice)", "Thembra bark (Acacia pennata)", "Water"],
+      "preparation_method": "Rice is cooked, cooled, mixed with crushed Thembra bark yeast balls (Humao), sealed in earthen pots, and allowed to naturally ferment for one to three weeks into a clear golden sweet nectar.",
+      "cultural_significance": "Sanctified drink indispensable in Bushu, weddings, Daikho rituals, and guest hospitality.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "napham",
+      "name": "Napham",
+      "dimasa_name": "Napham",
+      "category": "fermented_dish",
+      "description": "A traditional fermented fish paste delicacy. Small river fish are seasoned with salt, herbs, and pounded rice flour, tightly packed into fresh hollow bamboo internodes, sealed airtight with banana leaves, and aged for several months.",
+      "ingredients": ["River fish", "Salt", "Pounded rice", "Bamboo shoot extract"],
+      "preparation_method": "Packed into green bamboo culms and fermented anaerobic-style over 2-6 months; roasted or cooked into thick aromatic curries.",
+      "cultural_significance": "A prized preservation technique ensuring year-round protein and rich umami flavor in Dimasa cuisine.",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "gundru",
+      "name": "Gundru",
+      "dimasa_name": "Gundru",
+      "category": "vegetable",
+      "description": "Tender young bamboo shoots or mustard greens shredded, fermented in clay vessels, and dried under the bright sun into dry savory cakes.",
+      "ingredients": ["Tender bamboo shoots (Mibu)", "Mustard leaves", "Salt"],
+      "preparation_method": "Shredded, slightly fermented, and sun-dried for long storage.",
+      "cultural_significance": "Core staple flavoring added to meat, fish, and alkaline Khar soups.",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "khar",
+      "name": "Dimasa Khar",
+      "dimasa_name": "Khar",
+      "category": "alkaline_preparation",
+      "description": "Traditional alkaline liquid seasoning prepared by filtering water through the sun-dried ashes of banana peel or sesame stalks. Used to balance digestion and tenderize pulses and meats.",
+      "ingredients": ["Dried banana peel ash", "Water"],
+      "preparation_method": "Ash is placed in a bamboo filter basket (Khari) and water is trickled through to yield a golden alkaline distillate.",
+      "cultural_significance": "Fundamental culinary hallmark across indigenous Northeast Indian kitchens.",
+      "source_id": "SRC-SINGHA-2010",
+      "verification_status": "documented"
+    }
+  ],
+  "festivals": [
+    {
+      "id": "bushu_dima",
+      "name": "Bushu Dima",
+      "dimasa_name": "Bushu Dima",
+      "timing": "January (post-harvest season)",
+      "description": "The grandest annual socio-cultural festival of the Dimasa people, celebrating thanksgiving to Creator Sibarai for bountiful harvests. Features night-long Baidima dancing, Khram drum rhythms, Muri trumpet melodies, and feasting on Judima.",
+      "types": [
+        {"name": "Hangseu Bushu", "duration": "7 days and nights", "organized_by": "Village youth dormitory (Hangseu)"},
+        {"name": "Surem Bushu", "duration": "3 days", "organized_by": "Village community"},
+        {"name": "Jidab Bushu", "duration": "1 day and night", "organized_by": "Individual households or small hamlets"}
+      ],
+      "rituals": ["Gajaiba (formal opening prayer)", "Jauba (community feasting)", "Baidima (dance competitions)", "Muri si-ba (trumpet recitals)"],
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "rajini_gabra",
+      "name": "Rajini Gabra",
+      "dimasa_name": "Rajini Gabra",
+      "timing": "Before the onset of the agricultural sowing season (April/May)",
+      "description": "An annual community-wide protection ritual performed at night to appease protective guardian spirits, avert epidemics, and safeguard the village boundaries.",
+      "rituals": ["Total village curfew (no outsiders allowed entry during the rites)", "Sacrificial offerings at the village boundary gates", "Priestly chants by Zonthra and Hojai"],
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "harni_gabra",
+      "name": "Harni Gabra",
+      "dimasa_name": "Harni Gabra",
+      "timing": "Pre-harvest period or during unforeseen calamity",
+      "description": "Sacred ritual to cleanse the soil (Ha), pray for rain during drought, or shield agricultural crops from insect plagues and natural disasters.",
+      "rituals": ["Consecration of the central village altar", "Invocations to Earth and Water deities"],
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    }
+  ],
+  "religion": [
+    {
+      "id": "sibarai",
+      "name": "Sibarai (Bra-Shibrai)",
+      "category": "supreme_deity",
+      "description": "The supreme primordial creator God and benevolent ancestor of the Dimasa Kachari people. Symbolizes cosmic righteousness, procreation, and agricultural fertility.",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "daikho_system",
+      "name": "The Twelve Daikhos",
+      "category": "sacred_geography",
+      "description": "A network of twelve traditional territorial deities and sacred groves that demarcated the sacred geography of the historical Dimasa Kingdom. Each Daikho has its dedicated priest (Zonthra) and ancestral altar.",
+      "daikhos_list": [
+        "Alu Daikho",
+        "Misim Daikho",
+        "Damadi Daikho",
+        "Ranachandi Daikho",
+        "Hamridao Daikho",
+        "Wao Daikho",
+        "Manja Daikho",
+        "Brajil Daikho",
+        "Longkhor Daikho",
+        "Dikhling Daikho",
+        "Madaibil Daikho",
+        "Sangsari Daikho"
+      ],
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "priesthood",
+      "name": "Traditional Priesthood (Zonthra & Hojai)",
+      "category": "ritual_officials",
+      "description": "The spiritual life is officiated by the Zonthra (high priest possessing oral mantras and genealogical knowledge) and the Hojai (assistant priest maintaining ritual purifications and offerings).",
+      "source_id": "SRC-VKIC-2005",
+      "verification_status": "community_verified"
+    }
+  ],
+  "music": [
+    {
+      "id": "khram",
+      "name": "Khram",
+      "category": "percussion",
+      "description": "The quintessential traditional Dimasa two-sided wooden cylindrical drum, hollowed from a single log and covered with animal hide held by bamboo lashings. It dictates the rhythm of all festivals and dances.",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "muri",
+      "name": "Muri",
+      "category": "wind_instrument",
+      "description": "A long ceremonial wooden/bamboo trumpet or shawm with a vibrating reed. Produces a haunting, resonant sound heard across hill valleys during Bushu and royal processions.",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "muri_wathisa",
+      "name": "Muri Wathisa",
+      "category": "wind_instrument",
+      "description": "A shorter bamboo flute producing high melodic trills accompanying pastoral songs.",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "supin",
+      "name": "Supin",
+      "category": "wind_instrument",
+      "description": "A traditional bamboo flute played by young men in the hills and fields.",
+      "source_id": "SRC-BARUA-1980",
+      "verification_status": "community_verified"
+    }
+  ],
+  "geography": [
+    {
+      "id": "dima_hasao",
+      "name": "Dima Hasao",
+      "historical_name": "North Cachar Hills",
+      "state": "Assam",
+      "description": "The picturesque autonomous hill district of Assam ('Hills of the Dimasa'), headquartered at Haflong. Center of contemporary Dimasa cultural revitalization and political autonomy.",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "documented"
+    },
+    {
+      "id": "dimapur",
+      "name": "Dimapur",
+      "historical_name": "Hedambapur",
+      "state": "Nagaland",
+      "description": "The ancient first capital of the Dimasa Kachari Kingdom. Renowned for the Kachari ruins featuring massive, mushroom-shaped carved stone monolith pillars (chessman pillars) dating back to the 13th-15th century.",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "documented"
+    },
+    {
+      "id": "maibang",
+      "name": "Maibang",
+      "historical_name": "Maibang ('Plenty of Paddy')",
+      "state": "Assam (Dima Hasao)",
+      "description": "The second historical capital of the Dimasa Kingdom located on the banks of the Mahur River. Famous for the monolithic rock-cut temple of Goddess Ranachandi built by King Harischandra Narayan in 1761 CE.",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "documented"
+    },
+    {
+      "id": "khaspur",
+      "name": "Khaspur",
+      "historical_name": "Khaspur (Plains of Cachar)",
+      "state": "Assam (Cachar)",
+      "description": "The final capital of the Dimasa Kings before British annexation in 1832 following the demise of King Govinda Chandra Narayan Hashnu. Features historic brick gates (Singhadwar), Snan Mandir, and Baradwar palace ruins.",
+      "source_id": "SRC-THAOSEN-1964",
+      "verification_status": "documented"
+    }
+  ],
+  "idioms": [
+    {
+      "id": "id-01",
+      "dimasa": "di ring-ba subun dima thang-ja",
+      "literal": "A person who knows swimming does not fear the big river",
+      "english_meaning": "Knowledge and skill conquer the greatest adversities.",
+      "source_id": "SRC-BODODIMASA-ARCHIVE",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "id-02",
+      "dimasa": "mai son-ba nohkhor hamba",
+      "literal": "The household that cooks grain well prospers",
+      "english_meaning": "Industry, care, and peaceful domestic life bring enduring prosperity.",
+      "source_id": "SRC-BODODIMASA-ARCHIVE",
+      "verification_status": "community_verified"
+    },
+    {
+      "id": "id-03",
+      "dimasa": "bongphang ma-ba bil gbang-ba glai-du",
+      "literal": "From a great tree, many leaves fall",
+      "english_meaning": "Great leaders and elders carry vast responsibilities and endure great trials.",
+      "source_id": "SRC-BODODIMASA-ARCHIVE",
+      "verification_status": "community_verified"
+    }
+  ]
+}
+

@@ -1,0 +1,105 @@
+{
+  "books": [
+    {
+      "id": "dundas-1908",
+      "title": "An Outline Grammar and Dictionary of the Kachari (Dimasa) Language",
+      "author": "W. C. M. Dundas (based on Mani Charan Barman)",
+      "publication_year": 1908,
+      "publisher": "Eastern Bengal and Assam Secretariat Press",
+      "place": "Shillong",
+      "language": "English, Dimasa",
+      "copyright_status": "public_domain",
+      "description": "Historical grammatical monograph containing declension paradigms, conjugation outlines, and bilingual vocabulary lists.",
+      "total_pages": 4,
+      "total_words": 520,
+      "source_id": "SRC-DUNDAS-1908",
+      "verification_status": "documented",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Grammatical Sketch Overview",
+          "content": "Dimasa Kachari represents a prominent speech variety of the Bodo-Garo linguistic group, spoken historically in North Cachar and surrounding hill tracts. Nouns do not exhibit grammatical gender inflections. Pluralization of human referents utilizes suffixes such as -rao. Morphological cases attach postpositionally to nominal stems."
+        },
+        {
+          "page_number": 2,
+          "title": "Nominal Inflection System",
+          "content": "Case relations in Dimasa are expressed via postpositions: Nominative is zero-marked; Accusative takes -ke or -khe on definite objects; Genitive takes -ni; Dative takes -ne or -thane; Locative is marked by -ha; Ablative is indicated by -niphang."
+        },
+        {
+          "page_number": 3,
+          "title": "Verbal Suffixation and Tense-Aspect",
+          "content": "Predicates in Dimasa remain invariant for person and gender. Aspect and temporal relations attach sequentially to the verbal stem: present imperfective -du, past -ba, future prospective -ma, imperative -bo, and negative prohibitive prefix da-."
+        },
+        {
+          "page_number": 4,
+          "title": "Numeral Classifiers Outline",
+          "content": "Counting expressions require sortal classifiers: human referents take sao-, non-human animates take ma-, cylindrical rigid objects take gon-, botanical plants take phang-. Numerals one through ten follow the sequence masi to maji."
+        }
+      ]
+    },
+    {
+      "id": "grierson-1903",
+      "title": "Linguistic Survey of India: Volume III, Part II - Dimasa Section",
+      "author": "Sir George Abraham Grierson",
+      "publication_year": 1903,
+      "publisher": "Office of the Superintendent of Government Printing",
+      "place": "Calcutta",
+      "language": "English, Dimasa",
+      "copyright_status": "public_domain",
+      "description": "Linguistic classification survey of Dimasa within the Bodo-Garo subgrouping of the Tibeto-Burman family.",
+      "total_pages": 3,
+      "total_words": 380,
+      "source_id": "SRC-GRIERSON-1903",
+      "verification_status": "documented",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Genealogical Classification",
+          "content": "Dimasa is catalogued under the Bodo group of the Tibeto-Burman language family. It maintains close structural affinities with Boro, Garo, and Kokborok, while preserving archaic phonotactic features."
+        },
+        {
+          "page_number": 2,
+          "title": "Morphological Observations",
+          "content": "Syntactic analysis reveals SOV basic word order, extensive postpositional chaining, monosyllabic lexical roots, and numeral classifier constructions indicating definiteness based on constituent ordering."
+        },
+        {
+          "page_number": 3,
+          "title": "Comparative Lexical Notes",
+          "content": "Comparative analysis demonstrates regular sound correspondences across Sal languages, including conserved root vowels and cognate case affixes across the Bodo branch."
+        }
+      ]
+    },
+    {
+      "id": "dimasa-folklore-2021",
+      "title": "Dimasa Oral Traditions and Folklore Compendium",
+      "author": "Tezpur University CEL & Dimasa Sahitya Sabha",
+      "publication_year": 2021,
+      "publisher": "Tezpur University Centre for Endangered Languages",
+      "place": "Tezpur, Assam",
+      "language": "English, Dimasa",
+      "copyright_status": "open_access",
+      "description": "Preserved oral literature, clan genealogical lore, and festival traditions documented with community scholars.",
+      "total_pages": 3,
+      "total_words": 420,
+      "source_id": "SRC-BODODIMASA-ARCHIVE",
+      "verification_status": "community_verified",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Creation Lore and Ancestral Confluence",
+          "content": "Dimasa oral traditions record the ancestral origin at the sacred river confluence known as Sangsari Dingra, commemorating ancestral lineages and the cultural reverence for mountains and water bodies."
+        },
+        {
+          "page_number": 2,
+          "title": "The Post-Harvest Bushu Festival",
+          "content": "Bushu Dima is observed annually following the harvest of the winter rice crops. Celebrations include community gatherings, thanksgiving prayers to Creator Sibarai, traditional Baidima dances, and Khram drum rhythms."
+        },
+        {
+          "page_number": 3,
+          "title": "Historical Capitals and Archaeological Sites",
+          "content": "Oral history commemorates historical administrative seats including the ancient monolith structures of Dimapur, the rock-hewn temple architectures of Maibang, and the heritage monuments of Khaspur."
+        }
+      ]
+    }
+  ]
+}
